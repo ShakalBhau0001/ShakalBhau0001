@@ -1,11 +1,11 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:004466&height=220&section=header&text=ShakalBhau0001%20|%20Cybersecurity%20Specialist&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:004466&height=220&section=header&text=ShakalBhau0001%20|%20Cybersecurity%20Beginner&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- Animated Hacker Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hello+World!+👾;I+am+ShakalBhau0001;+Cybersecurity+Specialist;Securing+Systems+;+Breaking+Barriers;Ethical+Hacking+%7C+Encryption+%7C+Steganography;Think+Before+You+Click+;+Encrypt+Before+You+Send!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Hello+World!+👾;I+am+ShakalBhau0001;+Cybersecurity+Beginner;Securing+Systems+;+Breaking+Barriers;Ethical+Hacking+%7C+Encryption+%7C+Steganography;Think+Before+You+Click+;+Encrypt+Before+You+Send!">
 </p>
 
 ---
