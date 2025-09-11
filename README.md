@@ -77,7 +77,7 @@ TryHackMe : tryhackme.com/p/ShakalBhau0001
 ---
 
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/raw/output/github-contribution-grid-tetris.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <p align="center">
