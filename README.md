@@ -49,9 +49,9 @@ Motto    : Hack to Protect; Defend to Survive;
 ## 🔓 Live Projects
 
 ```
-[+] SecureComm+       -> Unified Encrypted Messaging + Steganography
-[+] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit
-[+] DataLeak Sentinel -> Real-Time PII & Data Breach Detection
+[+] ShadowCryption    -> Unified Encrypted Messaging + Steganography (Work in progess...)
+[+] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit (Work in progess...)
+[+] DataLeak Sentinel -> Real-Time PII & Data Breach Detection (Work in progess...)
 ```
 
 > *Access: [github.com/ShakalBhau0001](https://github.com/ShakalBhau0001)*
