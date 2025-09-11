@@ -13,8 +13,8 @@
 
 ```
 Name     : ShakalBhau0001
-Role     : Cybersecurity Specialist + Developer
-Focus    : Penetration Testing + Threat Hunting + Steganography
+Role     : Cybersecurity Beginner + Developer
+Focus    : Penetration Testing + Steganography
 Weapons  : RSA + AES + Zero-Day Defense
 Motto    : Hack to Protect; Defend to Survive;
 ```
@@ -26,8 +26,8 @@ Motto    : Hack to Protect; Defend to Survive;
 ```
 [+] Languages  : Python, C++, Java, JavaScript, Bash
 [+] Tools      : Kali Linux, Metasploit, BurpSuite, Nmap
-[+] Backend    : Node.js, Express, MySQL, MongoDB
-[+] Frontend   : React, Tailwind, Next.js
+[+] Backend    : Python, Java, MySQL
+[+] Frontend   : HTML, CSS, JavaScript
 [+] Special    : Steganography, PII Detection, Dockerized Security Apps
 ```
 
@@ -65,6 +65,7 @@ Email    : shakalbhau007@gmail.com
 LinkedIn : linkedin.com/in/shakal-bhau-15sa07
 Twitter  : twitter.com/USBhau0001007
 GitHub   : github.com/ShakalBhau0001
+TryHackMe : tryhackme.com/p/ShakalBhau0001
 ```
 
 ---
@@ -76,7 +77,7 @@ GitHub   : github.com/ShakalBhau0001
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/rajput2107/rajput2107/raw/output/github-contribution-grid-tetris.svg" />
 </p>
 
 <p align="center">
