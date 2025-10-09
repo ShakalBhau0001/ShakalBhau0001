@@ -1,6 +1,6 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=220&section=header&text=ShakalBhau0001%20|%20Cybersecurity%20Beginner&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=220&section=header&text=ShakalBhau0001%20|%20CyberSecurity%20Beginner&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
