@@ -9,7 +9,7 @@
 
 ---
 
-# 💀 WHOAMI — Terminal Node
+# 💀 WHOAMI
 
 ```bash
 ██████████████████████████████████████████████████████████████████████
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛡 CYBER ARSENAL — Loadout
+## 🛡 CYBER ARSENAL
 
 ```bash
 [ LANGUAGES ]  Python  ·  C++  ·  Java  ·  JavaScript  ·  Bash
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 SYSTEM STATUS — Live Dashboard
+## 📊 SYSTEM STATUS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
@@ -66,7 +66,7 @@ SESS  : 3 active tunnels | 7 open projects
 
 ---
 
-## 🔓 LIVE PROJECTS — Current Ops (WIP)
+## 🔓 LIVE PROJECTS
 
 ```bash
 [01] ShadowCryption    -> Unified Encrypted Messaging + Steganography    (WIP)
@@ -85,7 +85,7 @@ SESS  : 3 active tunnels | 7 open projects
 
 ---
 
-## 🌐 CONTACT NODE — Ping Me
+## 🌐 CONTACT NODE
 
 ```bash
 Email     : shakalbhau007@gmail.com
@@ -105,7 +105,7 @@ TryHackMe : https://tryhackme.com/p/ShakalBhau0001
 
 ---
 
-## ⚠️ MISSION STATEMENT — Rules of Engagement
+## ⚠️ MISSION STATEMENT
 
 ```bash
 "Privacy is Power; Encryption is Armor; Knowledge is Weapon;"
