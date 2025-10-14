@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150px"/>
 </p>
 
 ```bash
