@@ -47,22 +47,12 @@
 ## 📊 SYSTEM STATUS
 
 <p align="center">
-  <!-- GitHub Summary Stats (Vercel) -->
-  <a href="https://github.com/ShakalBhau0001">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats" height="170px"/>
-  </a>
-
-  <!-- Top Languages (Vercel) -->
-  <a href="https://github.com/ShakalBhau0001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" height="170px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
-  <!-- Streak card: demolab / vercel fallback -->
-  <a href="https://github.com/ShakalBhau0001">
-    <img src="https://streak-stats.demolab.com?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" height="150px"/>
-  </a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150px"/>
 </p>
 
 ```bash
