@@ -69,7 +69,7 @@ ACTIVITY: Developing & Learning ⚡
 ## 🔓 LIVE PROJECTS
 
 ```bash
-[01] ShadowCryption    -> Unified Encrypted Messaging + Steganography    (WIP)
+[01] ShadowCryption    -> Unified Encrypted Messaging + Steganography   (WIP)
 [02] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit          (WIP)
 [03] DataLeak Sentinel -> Real-Time PII & Data Breach Detection         (WIP)
 ```
