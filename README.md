@@ -54,7 +54,6 @@
 
 <p align="center">
   <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150"/>
-  <img alt="Streak fallback" src="https://streak-stats.demolab.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150" style="display:none"/>
 </p>
 
 
