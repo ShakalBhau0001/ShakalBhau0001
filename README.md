@@ -47,13 +47,16 @@
 ## 📊 SYSTEM STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" height="170px"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
+  &nbsp;
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150px"/>
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <img alt="Streak fallback" src="https://streak-stats.demolab.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150" style="display:none"/>
 </p>
+
 
 ```bash
 STATUS : 🟢 ONLINE
