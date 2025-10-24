@@ -129,3 +129,11 @@ For security tools, include **test-cases and non-production data only**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004400,100:00FF00&height=120&section=footer"/>
 </p>
+
+---
+
+**Liked what you see?**  
+Follow me on [GitHub](https://github.com/ShakalBhau0001) and ⭐⭐⭐⭐ star the repositories you like!  
+
+Your support keeps me motivated to create more awesome projects 🚀
+
