@@ -41,6 +41,32 @@
   <img src="https://img.shields.io/badge/Kali-Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=0F0"/>
   <img src="https://img.shields.io/badge/Metasploit-active-critical?style=for-the-badge&logo=metasploit&logoColor=white&color=ff6600"/>
 </p>
+ <p align="center">
+  <!-- First Row -->
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+</p>
+
+<p align="center">
+  <!-- Second Row -->
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/kali-linux.png" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postman,docker" height="48"/>
+</p>
+
 
 ---
 
@@ -103,6 +129,7 @@ TryHackMe : https://tryhackme.com/p/ShakalBhau0001
   <img src="https://img.shields.io/badge/GitHub-ShakalBhau0001-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/TryHackMe-Profile-purple?style=for-the-badge&logo=tryhackme"/>
 </p>
+
 
 ---
 
