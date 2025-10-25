@@ -12,13 +12,13 @@
 # 💀 whoami
 
 ```bash
-██████████████████████████████████████████████████████████████
-█ Name     : ShakalBhau0001                                  █
-█ Role     : Cybersecurity Beginner + Developer              █
-█ Focus    : Penetration Testing + Steganography             █
-█ Weapons  : RSA + AES + Zero-Day Defense                    █
-█ Motto    : Hack to Protect; Defend to Survive;             █
-██████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████
+█ Name     : ShakalBhau0001                                 █
+█ Role     : Cybersecurity Beginner + Developer             █
+█ Focus    : Penetration Testing + Steganography            █
+█ Weapons  : RSA + AES + Zero-Day Defense                   █
+█ Motto    : Hack to Protect; Defend to Survive;            █
+█████████████████████████████████████████████████████████████
 ```
 
 ---
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Kali-Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=0F0"/>
   <img src="https://img.shields.io/badge/Metasploit-active-critical?style=for-the-badge&logo=metasploit&logoColor=white&color=ff6600"/>
 </p>
+
  <p align="center">
   <!-- First Row -->
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
@@ -161,6 +162,6 @@ For security tools, include **test-cases and non-production data only**.
 
 **Liked what you see?**  
 Follow me on [GitHub](https://github.com/ShakalBhau0001) and ⭐⭐⭐⭐ star the repositories you like!  
-
 Your support keeps me motivated to create more awesome projects 🚀
 
+---
