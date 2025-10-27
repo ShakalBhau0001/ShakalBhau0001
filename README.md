@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;Cybersecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+Before+You+Click+;+Encrypt+Before+You+Send!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+Before+You+Click+;+Encrypt+Before+You+Send!"/>
 </p>
 
 ---
