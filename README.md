@@ -90,23 +90,13 @@
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img 
-      src="https://github-readme-streak-stats.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true&v=2.1" 
+      src="https://github-readme-streak-stats.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00FF00&ring=00FF00&background=000000&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&v=2" 
       alt="GitHub Streak" 
       height="150"
     />
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" type="image/png">
-    <img 
-      src="https://github-readme-streak-stats.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true&v=3.0" 
-      alt="GitHub Streak Fallback" 
-      height="150"
-    />
-  </picture>
-</p>
 
 
 ```bash
