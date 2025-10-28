@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+Before+You+Click+;+Encrypt+Before+You+Send!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+BeFore+You+Click+;+Encrypt+BeFore+You+Send!"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 
 ## 📊 SYSTEM STATUS
 
-<!-- <p align="center">
+<p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
   &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
@@ -85,32 +85,6 @@
       src="https://streak-stats.demolab.com?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" 
       alt="GitHub Streak" 
       height="150" 
-    />
-  </a>
-</p>
-
- -->
-
- <p align="center">
-  <img 
-    alt="GitHub stats" 
-    src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" 
-    height="170"
-  />
-  &nbsp;
-  <img 
-    alt="Top languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShakalBhau0001">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" 
-      alt="GitHub Streak" 
-      height="150"
     />
   </a>
 </p>
