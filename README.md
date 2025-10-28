@@ -73,14 +73,46 @@
 
 ## 📊 SYSTEM STATUS
 
-<p align="center">
+<!-- <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170"/>
   &nbsp;
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <a href="https://github.com/ShakalBhau0001">
+    <img 
+      src="https://streak-stats.demolab.com?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" 
+      alt="GitHub Streak" 
+      height="150" 
+    />
+  </a>
+</p>
+
+ -->
+
+ <p align="center">
+  <img 
+    alt="GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true" 
+    height="170"
+  />
+  &nbsp;
+  <img 
+    alt="Top languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShakalBhau0001">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true" 
+      alt="GitHub Streak" 
+      height="150"
+    />
+  </a>
 </p>
 
 
