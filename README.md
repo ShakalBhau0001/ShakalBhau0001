@@ -94,6 +94,8 @@
       alt="GitHub Streak" 
       height="150"
     />
+  </a>
+</p>
 <!-- 
     <br/>
     <img 
