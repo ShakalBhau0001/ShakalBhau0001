@@ -73,23 +73,31 @@
 
 ## 📊 SYSTEM STATUS
 
+<!-- 💻 GitHub Stats & Activity -->
 <p align="center">
-  <img 
-    alt="GitHub stats" 
-    src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=60" 
+  <!-- GitHub Stats -->
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&border_radius=15&v=999"
     height="170"
   />
   &nbsp;
-  <img 
-    alt="Top languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=60" 
+  <!-- Top Languages -->
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&border_radius=15&v=999"
     height="170"
   />
 </p>
 
+<!-- 🔥 Streak Stats -->
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" height="150"/>
+    <img
+      alt="GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=FFFFFF&background=00000000&v=7"
+      height="160"
+    />
   </a>
 </p>
 
