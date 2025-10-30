@@ -89,23 +89,9 @@
 
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
-    <img 
-      src="https://github-readme-streak-stats.vercel.app?user=ShakalBhau0001&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00FF00&ring=00FF00&background=000000&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF&v=2" 
-      alt="GitHub Streak" 
-      height="150"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" height="150"/>
   </a>
 </p>
-<!-- 
-    <br/>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak (Backup)" 
-      height="180"
-    />
-  </a>
-</p> 
--->
 
 ```bash
 STATUS : 🟢 ONLINE
