@@ -95,7 +95,7 @@
   <a href="https://github.com/ShakalBhau0001">
     <img
       alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=FFFFFF&background=00000000&v=7"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=FFFFFF&background=00000000&v=77"
       height="160"
     />
   </a>
