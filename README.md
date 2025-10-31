@@ -11,15 +11,9 @@
 
 # 💀 whoami
 
-```bash
-█████████████████████████████████████████████████████████████
-█ Name     : ShakalBhau0001                                 █
-█ Role     : Cybersecurity Beginner + Developer             █
-█ Focus    : Penetration Testing + Steganography            █
-█ Weapons  : RSA + AES + Zero-Day Defense                   █
-█ Motto    : Hack to Protect; Defend to Survive;            █
-█████████████████████████████████████████████████████████████
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/main/assets/banner.svg" alt="ShakalBhau0001 Cyber Banner"/>
+</p>
 
 ---
 
