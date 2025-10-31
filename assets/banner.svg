@@ -22,12 +22,12 @@
   <rect x="5" y="5" width="790" height="150" rx="10" ry="10" fill="none" stroke="url(#grad)" stroke-width="2" filter="url(#glow)"/>
 
   <g font-family="monospace" font-size="14" fill="url(#grad)">
-    <text x="25" y="35">█████████████████████████████████████████████████████████████</text>
-    <text x="25" y="55">█ Name     : ShakalBhau0001                                 █</text>
-    <text x="25" y="75">█ Role     : Cybersecurity Beginner + Developer             █</text>
-    <text x="25" y="95">█ Focus    : Penetration Testing + Steganography            █</text>
-    <text x="25" y="115">█ Weapons  : RSA + AES + Zero-Day Defense                   █</text>
-    <text x="25" y="135">█ Motto    : Hack to Protect; Defend to Survive;            █</text>
-    <text x="25" y="155">█████████████████████████████████████████████████████████████</text>
+    <text xml:space="preserve" x="25" y="35">█████████████████████████████████████████████████████████████</text>
+    <text xml:space="preserve" x="25" y="55">█ Name     : ShakalBhau0001                                 █</text>
+    <text xml:space="preserve" x="25" y="75">█ Role     : Cybersecurity Beginner + Developer             █</text>
+    <text xml:space="preserve" x="25" y="95">█ Focus    : Penetration Testing + Steganography            █</text>
+    <text xml:space="preserve" x="25" y="115">█ Weapons  : RSA + AES + Zero-Day Defense                   █</text>
+    <text xml:space="preserve" x="25" y="135">█ Motto    : Hack to Protect; Defend to Survive;            █</text>
+    <text xml:space="preserve" x="25" y="155">█████████████████████████████████████████████████████████████</text>
   </g>
 </svg>
