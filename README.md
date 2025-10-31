@@ -1,10 +1,10 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:004400&height=220&section=header&text=ShakalBhau0001%20|%20CyberSecurity%20Beginner&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:001F3F&height=230&section=header&text=ShakalBhau0001%20|%20CyberSecurity%20Beginner&fontSize=42&fontColor=00BFFF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+BeFore+You+Click+;+Encrypt+BeFore+You+Send!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+BeFore+You+Click+;+Encrypt+BeFore+You+Send!"/>
 </p>
 
 ---
@@ -34,13 +34,14 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-informational?style=for-the-badge&logo=python&logoColor=white&color=0A0"/>
-  <img src="https://img.shields.io/badge/C++-17-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=0A0"/>
-  <img src="https://img.shields.io/badge/Java-17-informational?style=for-the-badge&logo=java&logoColor=white&color=0A0"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-informational?style=for-the-badge&logo=javascript&logoColor=white&color=0A0"/>
-  <img src="https://img.shields.io/badge/Kali-Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=0F0"/>
-  <img src="https://img.shields.io/badge/Metasploit-active-critical?style=for-the-badge&logo=metasploit&logoColor=white&color=ff6600"/>
+  <img src="https://img.shields.io/badge/Python-3.11-00BFFF?style=for-the-badge&logo=python&logoColor=black" alt="python-badge"/>
+  <img src="https://img.shields.io/badge/C++-17-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="cpp-badge"/>
+  <img src="https://img.shields.io/badge/Java-17-00BFFF?style=for-the-badge&logo=java&logoColor=black" alt="java-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-00BFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="js-badge"/>
+  <img src="https://img.shields.io/badge/Kali-Linux-00BFFF?style=for-the-badge&logo=kali-linux&logoColor=black" alt="kali-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-Active-00BFFF?style=for-the-badge&logo=metasploit&logoColor=black" alt="metasploit-badge"/>
 </p>
+
 
  <p align="center">
   <!-- First Row -->
@@ -73,22 +74,12 @@
 
 ## 📊 SYSTEM STATUS
 
-<!-- 💻 GitHub Stats & Activity -->
 <p align="center">
-  <!-- GitHub Stats -->
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60&border_radius=15&v=999"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="github-stats"/>
   &nbsp;
-  <!-- Top Languages -->
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&border_radius=15&v=999"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=dark&hide_border=true" height="170" alt="top-langs"/>
 </p>
+
 
 <!-- 🔥 Streak Stats -->
 <p align="center">
@@ -121,9 +112,9 @@ ACTIVITY: Developing & Learning ⚡
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ShadowCryption-WIP-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cyber--Toolbox-WIP-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DataLeak--Sentinel-WIP-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ShadowCryption-WIP-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cyber--Toolbox-WIP-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DataLeak--Sentinel-WIP-00BFFF?style=for-the-badge"/>
 </p>
 
 > 🌐 Access: [GitHub Profile](https://github.com/ShakalBhau0001)
@@ -141,13 +132,12 @@ TryHackMe : https://tryhackme.com/p/ShakalBhau0001
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-shakalbhau007%40gmail.com-lightgrey?style=for-the-badge&logo=gmail"/>
-  <img src="https://img.shields.io/badge/LinkedIn-shakal--bhau-blue?style=for-the-badge&logo=linkedin"/>
-  <img src="https://img.shields.io/badge/Twitter-@USBhau0001007-blue?style=for-the-badge&logo=twitter"/>
-  <img src="https://img.shields.io/badge/GitHub-ShakalBhau0001-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-purple?style=for-the-badge&logo=tryhackme"/>
+  <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="email-badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="linkedin-badge"/>
+  <img src="https://img.shields.io/badge/Twitter-00BFFF?style=for-the-badge&logo=twitter&logoColor=black" alt="twitter-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=black" alt="github-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-00BFFF?style=for-the-badge&logo=tryhackme&logoColor=black" alt="tryhackme-badge"/>
 </p>
-
 
 ---
 
@@ -172,7 +162,7 @@ For security tools, include **test-cases and non-production data only**.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004400,100:00FF00&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00BFFF&height=120&section=footer" alt="footer"/>
 </p>
 
 ---
