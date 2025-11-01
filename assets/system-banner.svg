@@ -1,0 +1,79 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    @keyframes loading88 {
+      0% { width: 0px; }
+      100% { width: 352px; } /* 88% of 400px */
+    }
+
+    @keyframes loading70 {
+      0% { width: 0px; }
+      100% { width: 280px; } /* 70% of 400px */
+    }
+
+    @keyframes loading80 {
+      0% { width: 0px; }
+      100% { width: 320px; } /* 80% of 400px */
+    }
+
+    .terminal {
+      font-family: 'Courier New', monospace;
+      font-size: 18px;
+      fill: #00BFFF; /* Blue glow */
+      animation: flicker 1s infinite;
+    }
+
+    .bar-bg {
+      fill: #001133; /* Dark blue background */
+    }
+
+    .bar-fill {
+      fill: #00BFFF; /* Neon blue fill */
+      height: 10px;
+    }
+
+    .cpu-fill {
+      animation: loading88 2s infinite alternate;
+    }
+
+    .mem-fill {
+      animation: loading70 2s infinite alternate;
+    }
+
+    .net-fill {
+      animation: loading80 2s infinite alternate;
+    }
+
+    .percent-label {
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      fill: #00BFFF;
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="black" />
+
+  <text x="20" y="40" class="terminal" xml:space="preserve">STATUS : 🔵 ONLINE</text>
+
+  <text x="20" y="70" class="terminal" xml:space="preserve">CPU    :</text>
+  <rect x="120" y="62" width="400" height="10" class="bar-bg"/>
+  <rect x="120" y="62" class="bar-fill cpu-fill"/>
+  <text x="530" y="72" class="percent-label">88%</text>
+
+  <text x="20" y="100" class="terminal" xml:space="preserve">MEMORY :</text>
+  <rect x="120" y="92" width="400" height="10" class="bar-bg"/>
+  <rect x="120" y="92" class="bar-fill mem-fill"/>
+  <text x="530" y="102" class="percent-label">70%</text>
+
+  <text x="20" y="130" class="terminal" xml:space="preserve">NET    :</text>
+  <rect x="120" y="122" width="400" height="10" class="bar-bg"/>
+  <rect x="120" y="122" class="bar-fill net-fill"/>
+  <text x="530" y="132" class="percent-label">80%</text>
+
+  <text x="20" y="160" class="terminal" xml:space="preserve">SESS   : 3 active tunnels | 7 open projects</text>
+  <text x="20" y="190" class="terminal" xml:space="preserve">ACTIVITY: Developing & Learning ⚡</text>
+</svg>
