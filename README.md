@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Initializing+Secure+Session...;Loading+ShakalBhau0001+Profile...;CyberSecurity+Researcher+;+Full-Stack+Developer;Encrypting+Connections+;+Breaking+Barriers;Think+BeFore+You+Click+;+Encrypt+BeFore+You+Send!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=IniTialiZing+SEcure+Session...;LoaDing+ShakalBhau0001+ProFile...;CyberSecurity+Researcher+;+Full-STack+DeveLoper;EnCrypTing+ConnecTions+;+BreaKing+Barriers;THink+BeFore+You+CLick+;+Encrypt+BeFore+You+SEnd!;System+InTegrity:+STable+%26+SEcure;ConnecTion+To+CoRE+EsTabliShed"/>
 </p>
 
 ---
@@ -97,15 +97,14 @@
   </a>
 </p>
 
+---
 
-```bash
-STATUS : 🟢 ONLINE
-CPU    : ██████████░ 88%
-MEMORY : ████████░░░ 70%
-NET    : █████████░░ 80%
-SESS   : 3 active tunnels | 7 open projects
-ACTIVITY: Developing & Learning ⚡
-```
+<p align="center">
+  <a href="https://shakalbhau0001.github.io/ShakalBhau0001/sys-ban.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/main/assets/system-banner.svg" 
+         alt="System Banner" width="700"/>
+  </a>
+</p>
 
 ---
 
