@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF99"/>
+      <stop offset="100%" stop-color="#00FFFF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- System Status Text -->
+  <g font-family="Courier New, monospace" font-size="16" fill="url(#grad)" filter="url(#glow)" xml:space="preserve">
+    <text x="70" y="75">STATUS   : 🟢 ONLINE</text>
+    <text x="70" y="105">CPU      : ██████████░ 88%</text>
+    <text x="70" y="135">MEMORY   : ████████░░░ 70%</text>
+    <text x="70" y="165">NET      : █████████░░ 80%</text>
+    <text x="70" y="195">SESSION  : 3 active tunnels | 7 open projects</text>
+    <text x="70" y="225">ACTIVITY : Developing & Learning ⚡</text>
+  </g>
+</svg>
