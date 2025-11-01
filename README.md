@@ -76,7 +76,8 @@
 
 
 <!-- 🔥 Streak Stats -->
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img
       alt="GitHub Streak"
@@ -84,7 +85,18 @@
       height="160"
     />
   </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/ShakalBhau0001">
+    <img
+      alt="GitHub Streak Stats for ShakalBhau0001"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
+      height="160"
+    />
+  </a>
 </p>
+
 
 ```bash
 STATUS : 🟢 ONLINE
