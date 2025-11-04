@@ -74,9 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=dark&hide_border=true" height="170" alt="top-langs"/>
 </p>
 
-
-<!-- 🔥 Streak Stats -->
-
 <!-- <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img
@@ -90,8 +87,8 @@
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img
-      alt="GitHub Streak Stats for ShakalBhau0001"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
       height="160"
     />
   </a>
