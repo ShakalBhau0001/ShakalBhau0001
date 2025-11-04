@@ -88,7 +88,7 @@
   <a href="https://github.com/ShakalBhau0001">
     <img
       alt="GitHub Streak"
-      src="https://streak-stats.demolab.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
       height="160"
     />
   </a>
