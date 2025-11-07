@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Neon Blue Footer</title>
+</head>
+
+<body style="background-color:black; text-align:center;">
+
+  <!-- Neon Blue Footer SVG -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180"
+    preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <!-- Neon blue gradient -->
+      <linearGradient id="neonGrad" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00f0ff">
+          <animate attributeName="stop-color" values="#00f0ff;#1e90ff;#00bfff;#00f0ff" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#1e90ff">
+          <animate attributeName="stop-color" values="#1e90ff;#00bfff;#00f0ff;#1e90ff" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00bfff">
+          <animate attributeName="stop-color" values="#00bfff;#00f0ff;#1e90ff;#00bfff" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+
+      <!-- Glow filter -->
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="6" result="blur1" />
+        <feGaussianBlur in="blur1" stdDeviation="8" result="blur2" />
+        <feMerge>
+          <feMergeNode in="blur2" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+
+      <!-- Divider gradient -->
+      <linearGradient id="divGrad" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00f0ff" stop-opacity="0.85" />
+        <stop offset="50%" stop-color="#1e90ff" stop-opacity="0.95" />
+        <stop offset="100%" stop-color="#00bfff" stop-opacity="0.85" />
+      </linearGradient>
+    </defs>
+
+    <!-- Neon header text -->
+    <g filter="url(#glow)" text-anchor="middle">
+      <text x="50%" y="70" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="48" fill="url(#neonGrad)" letter-spacing="2">
+        ShakalBhau0001
+        <animate attributeName="opacity" values="1;0.85;1;0.9;1" dur="2.5s" repeatCount="indefinite" />
+      </text>
+
+      <text x="50%" y="70" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="48" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" letter-spacing="2">
+        ShakalBhau0001
+      </text>
+    </g>
+
+    <!-- Divider line -->
+    <g transform="translate(50,100)">
+      <rect x="0" y="0" width="900" height="6" rx="3" fill="url(#divGrad)">
+        <animate attributeName="opacity" values="0.9;0.6;0.95;0.7;0.9" dur="3s" repeatCount="indefinite" />
+      </rect>
+
+      <!-- Glow wave -->
+      <rect x="-300" y="0" width="300" height="6" rx="3" fill="#ffffff" fill-opacity="0.10">
+        <animate attributeName="x" from="-300" to="900" dur="3.5s" repeatCount="indefinite" />
+        <animate attributeName="fill-opacity" values="0.05;0.25;0.05" dur="3.5s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </svg>
+
+</body>
+
+</html>
