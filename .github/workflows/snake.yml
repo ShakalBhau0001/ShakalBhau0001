@@ -1,30 +1,58 @@
 name: Generate Snake
 
 on:
+  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:         
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Run when code is pushed to main or master branch
   push:
     branches:
       - main
+      - master
+
+# Prevent multiple runs overlapping
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # Only run this workflow in your profile repo
+    if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
+
+    # Give permission to write to branches
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout repo
+      # Step 1: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      # Step 2: Setup cache to speed up builds
+      - name: Setup cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-snake
+
+      # Step 3: Generate snake SVGs (default, dark, light, neon)
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/github-contribution-grid-snake-neon.svg?color_snake=#00f0ff&color_dots=#1e90ff,#00bfff,#00f0ff
 
-      - name: Push generated files
+      # Step 4: Push generated files to the 'output' branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
