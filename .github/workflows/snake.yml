@@ -1,36 +1,49 @@
-name: 🐍 Neon Snake Animation (Shikha Edition)
+name: 🐍 Neon Snake Animation
 
 on:
+  # 🕒 Automatically run every 12 hours
   schedule:
-    - cron: "0 */12 * * *"   # Auto-run every 12 hours
-  workflow_dispatch:          # Manual trigger
-  push:
-    branches: [main, master]  # When you push new code
+    - cron: "0 */12 * * *"
 
+  # 🔘 Allow manual run from GitHub Actions tab
+  workflow_dispatch:
+
+  # ⚡ Trigger on push to main or master
+  push:
+    branches:
+      - main
+      - master
+
+# 🚫 Prevent multiple overlapping runs
 concurrency:
   group: snake
   cancel-in-progress: true
 
 jobs:
   build:
-    name: 🧩 Build Glowing Neon Snake
+    name: 🧩 Build & Deploy Neon Snake
     runs-on: ubuntu-latest
+
+    # ✅ Only run in your main GitHub profile repo
     if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
 
     permissions:
       contents: write
 
     steps:
-      - name: 🪶 Checkout Repo
+      # 🪶 Step 1: Checkout repository
+      - name: 🪶 Checkout Repository
         uses: actions/checkout@v4
 
+      # ⚡ Step 2: Setup NPM cache for speed boost
       - name: ⚡ Setup Cache
         uses: actions/cache@v4
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-snake-cache-v2
+          key: ${{ runner.os }}-snake-cache-v3
 
-      - name: 🌈 Generate Neon Snake SVGs
+      # 🌈 Step 3: Generate contribution snake SVGs (multi-theme)
+      - name: 🌈 Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -38,9 +51,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
-            dist/github-contribution-grid-snake-neon.svg?color_snake=#00fff2&color_dots=#0011ff,#00b7ff,#00fff2
+            dist/github-contribution-grid-snake-neon.svg?color_snake=#00FFF2&color_dots=#0011FF,#00B7FF,#00FFF2
 
-      - name: 🚀 Deploy SVGs to output branch
+      # 🚀 Step 4: Deploy generated SVGs to 'output' branch
+      - name: 🚀 Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -48,7 +62,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: ✅ Log Success
+      # ✅ Step 5: Confirm successful build
+      - name: ✅ Confirm Success
         run: |
-          echo "🎉 Neon Snake generated successfully!"
-          echo "Check the output branch for glowing SVGs 🐍💖"
+          echo "🎉 Neon Snake animation generated successfully!"
+          echo "✨ Output branch updated with glowing SVGs!"
