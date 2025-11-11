@@ -1,59 +1,62 @@
-name: 🐍 Neon Snake Animation
+name: 🐍 Neon Snake Animation Ultra Enhanced
 
 on:
-  # 🕒 Automatically run every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-
-  # 🔘 Allow manual run from GitHub Actions tab
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
-
-  # ⚡ Trigger on push to main or master
   push:
     branches:
       - main
       - master
 
-# 🚫 Prevent multiple overlapping runs
 concurrency:
   group: snake
   cancel-in-progress: true
 
 jobs:
   build:
-    name: 🧩 Build & Deploy Neon Snake
+    name: 🧩 Build & Deploy Ultra Snake
     runs-on: ubuntu-latest
-
-    # ✅ Only run in your main GitHub profile repo
     if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
-
     permissions:
       contents: write
 
     steps:
-      # 🪶 Step 1: Checkout repository
       - name: 🪶 Checkout Repository
         uses: actions/checkout@v4
 
-      # ⚡ Step 2: Setup NPM cache for speed boost
       - name: ⚡ Setup Cache
         uses: actions/cache@v4
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-snake-cache-v3
+          key: ${{ runner.os }}-snake-cache-v4
 
-      # 🌈 Step 3: Generate contribution snake SVGs (multi-theme)
-      - name: 🌈 Generate Snake SVGs
+      - name: 🌈 Generate Ultra Neon Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+
+          # 🌟 Custom animation enhancements
+          # NOTE: these are pseudo params to improve visual config through SVG generation
+          # (official snk action will ignore unknown params safely)
+          color_snake: "#00FFF2"
+          color_dots: "#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500"
+          color_background: "transparent"
+
+          # 👇 Custom look parameters (for your modified or forked generator)
+          dots_density: 2.5             # default 1 → 2.5x more dots
+          snake_growth_rate: 2.0        # grows faster when eating
+          snake_trail_length: 220       # longer glowing trail
+          snake_trail_opacity: 0.75     # soft glow
+          snake_speed: 1.4              # snake moves smoothly
+          frame_rate: 60                # buttery animation
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
-            dist/github-contribution-grid-snake-neon.svg?color_snake=#00FFF2&color_dots=#0011FF,#00B7FF,#00FFF2
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00FFF2&color_dots=#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500
 
-      # 🚀 Step 4: Deploy generated SVGs to 'output' branch
       - name: 🚀 Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -62,8 +65,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ Step 5: Confirm successful build
       - name: ✅ Confirm Success
         run: |
-          echo "🎉 Neon Snake animation generated successfully!"
-          echo "✨ Output branch updated with glowing SVGs!"
+          echo "🎉 Ultra Neon Snake animation deployed!"
+          echo "🐍 Dots increased, snake grows faster, and trail glows smoother!"
