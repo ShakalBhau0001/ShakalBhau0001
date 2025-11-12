@@ -41,7 +41,7 @@ jobs:
           # (official snk action will ignore unknown params safely)
           color_snake: "#00FFF2"
           color_dots: "#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500,#00112B"
-          color_background: "#001F33,#00111A,#001A26,#002B36"
+          color_background: "#00111A"
 
           # 👇 Custom look parameters (for your modified or forked generator)
           dots_density: 2.5             # default 1 → 2.5x more dots
