@@ -39,7 +39,7 @@ jobs:
           # 🌟 Custom animation enhancements
           color_snake: "#00FFF2"
           color_dots: "#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500,#00112B"
-          
+
           # 👇 Custom look parameters
           dots_density: 2.5
           snake_growth_rate: 2.0
@@ -56,7 +56,10 @@ jobs:
 
       - name: 🔧 Force Neon Blue Background
         run: |
-          sed -i 's/fill="#[0-9A-Fa-f][0-9A-Fa-f]*"/fill="#0011FF"/g' dist/github-contribution-grid-snake*.svg
+          echo "🎨 Forcing background color to Neon Blue (#0011FF)..."
+          for f in dist/github-contribution-grid-snake*.svg; do
+            [ -f "$f" ] && sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || echo "⚠️ File not found: $f"
+          done
 
       - name: 🚀 Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -68,4 +71,6 @@ jobs:
 
       - name: ✅ Confirm Success
         run: |
-          echo "🎉 Ultra Neon Snake animation deployed!"
+          echo "🎉 Ultra Neon Snake animation deployed successfully!"
+          echo "🐍 Background forced to Neon Blue (#0011FF)"
+          echo "🐍 Dots increased, snake grows faster, and trail glows smoother!"
