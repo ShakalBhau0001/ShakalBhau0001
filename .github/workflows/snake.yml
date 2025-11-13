@@ -56,7 +56,7 @@ jobs:
 
       - name: 🔧 Force Neon Blue Background
         run: |
-          sed -i 's/fill="#[0-9A-Fa-f]\{6\}"/fill="#0011FF"/g' dist/github-contribution-grid-snake*.svg
+          sed -i 's/fill="#[0-9A-Fa-f][0-9A-Fa-f]*"/fill="#0011FF"/g' dist/github-contribution-grid-snake*.svg
 
       - name: 🚀 Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -69,5 +69,3 @@ jobs:
       - name: ✅ Confirm Success
         run: |
           echo "🎉 Ultra Neon Snake animation deployed!"
-          echo "🐍 Background forced to Neon Blue (#0011FF)!"
-          echo "🐍 Dots increased, snake grows faster, and trail glows smoother!"
