@@ -1,8 +1,8 @@
-name: 🐍 Neon Snake Animation Ultra Enhanced
+name: 🐍 Neon Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
   push:
     branches:
@@ -37,25 +37,23 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
           # 🌟 Custom animation enhancements
-          # NOTE: these are pseudo params to improve visual config through SVG generation
-          # (official snk action will ignore unknown params safely)
           color_snake: "#00FFF2"
           color_dots: "#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500,#00112B"
-          color_background: "#00111A"
+          color_background: "#0011FF"   # 🔥 Neon Blue background fix
 
-          # 👇 Custom look parameters (for your modified or forked generator)
-          dots_density: 2.5             # default 1 → 2.5x more dots
-          snake_growth_rate: 2.0        # grows faster when eating
-          snake_trail_length: 220       # longer glowing trail
-          snake_trail_opacity: 0.75     # soft glow
-          snake_speed: 1.4              # snake moves smoothly
-          frame_rate: 60                # buttery animation
+          # 👇 Custom look parameters
+          dots_density: 2.5
+          snake_growth_rate: 2.0
+          snake_trail_length: 220
+          snake_trail_opacity: 0.75
+          snake_speed: 1.4
+          frame_rate: 60
 
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
-            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00FFF2&color_dots=#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00FFF2&color_dots=#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500&color_background=#0011FF
 
       - name: 🚀 Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
