@@ -1,0 +1,68 @@
+name: 🐍 Neon Snake Animation Enhanced
+
+on:
+  schedule:
+    - cron: "0 */3 * * *" # every 3 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: snake-v2
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: 🧩 Build & Deploy Ultra Snake
+    runs-on: ubuntu-latest
+    if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
+    permissions:
+      contents: write
+
+    steps:
+      - name: 🪶 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⚡ Setup Cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-snake-cache-v4
+
+      - name: 🌈 Generate Ultra Neon Snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 💙 Full Neon Blue tones
+          color_snake: "#0011FF"
+          color_dots: "#0011FF,#0011FF,#0011FF"
+          color_bg: "#000000"
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+
+      - name: 🔧 Full Neon Blue Recolor
+        run: |
+          echo "🎨 Recoloring all SVGs to #0011FF tone..."
+          for f in dist/github-contribution-grid-snake*.svg; do
+            sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || true
+            sed -i 's/stroke="[^"]*"/stroke="#0011FF"/g' "$f" || true
+          done
+          echo "✅ Recoloring complete!"
+
+      - name: 🚀 Deploy Neon Blue Snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-v2
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✅ Confirm Success
+        run: |
+          echo "🎉 Ultra Neon Blue Snake deployed successfully!"
+          echo "🐍 Snake + Dots + Trails all recolored to pure #0011FF tone!"
+          echo "💡 Check your output branch: https://github.com/${{ github.repository }}/tree/output"
