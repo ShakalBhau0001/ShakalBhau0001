@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=IniTialiZing+SEcure+Session...;LoaDing+ShakalBhau0001+ProFile...;CyberSecurity+Researcher+;+Full-STack+DeveLoper;EnCrypTing+ConnecTions+;+BreaKing+Barriers;THink+BeFore+You+CLick+;+Encrypt+BeFore+You+SEnd!;System+InTegrity:+STable+%26+SEcure;ConnecTion+To+CoRE+EsTabliShed"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=IniTialiZing+SeCuRe+SeSsIoN...;LoaDing+ShakalBhau0001+PrOfIlE...;CyBerSeCuRiTy+ReSeArChEr+;+FuLL-StAcK+DeVeLoPeR;EnCrypTing+CoNnEcTiOnS+;+BrEaKiNg+BaRrIeRs;THink+BeFoRe+YoU+CLicK+;+EnCrYpT+BeFoRe+YoU+SeNd!;System+InTeGrItY:+StAbLe+%26+SeCuRe;CoNnEcTiOn+To+CoRe+EsTaBlIsHeD"/>
 </p>
 
 ---
