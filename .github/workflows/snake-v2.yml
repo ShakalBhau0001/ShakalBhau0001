@@ -2,7 +2,7 @@ name: 🐍 Neon Snake Animation Enhanced
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -35,24 +35,26 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 💙 Full Neon Blue tones
           color_snake: "#0011FF"
           color_dots: "#0011FF,#0011FF,#0011FF"
-          color_bg: "#000000"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/github-contribution-grid-snake-neon.svg
 
-      - name: 🔧 Full Neon Blue Recolor
+      - name: 🔧 Force Neon Blue Background + Recolor
         run: |
-          echo "🎨 Recoloring all SVGs to #0011FF tone..."
+          echo "🎨 Applying full neon blue look..."
           for f in dist/github-contribution-grid-snake*.svg; do
+            # Recolor snake + dots
             sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || true
             sed -i 's/stroke="[^"]*"/stroke="#0011FF"/g' "$f" || true
+            
+            # ADD NEON BLUE BACKGROUND RECTANGLE
+            sed -i 's/<svg /<svg style="background:#0011FF;" /' "$f" || true
           done
-          echo "✅ Recoloring complete!"
+          echo "✅ Neon blue background applied!"
 
       - name: 🚀 Deploy Neon Blue Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -65,5 +67,4 @@ jobs:
       - name: ✅ Confirm Success
         run: |
           echo "🎉 Ultra Neon Blue Snake deployed successfully!"
-          echo "🐍 Snake + Dots + Trails all recolored to pure #0011FF tone!"
-          echo "💡 Check your output branch: https://github.com/${{ github.repository }}/tree/output"
+          echo "🐍 Background + Snake + Dots all set to #0011FF!"
