@@ -43,18 +43,18 @@ jobs:
             dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/github-contribution-grid-snake-neon.svg
 
-      - name: 🔧 Force Neon Blue Background + Recolor
+      - name: 🔧 Neon Blue Recolor + Background Fix
         run: |
-          echo "🎨 Applying full neon blue look..."
+          echo "🎨 Applying neon blue theme..."
           for f in dist/github-contribution-grid-snake*.svg; do
-            # Recolor snake + dots
+            # Snake + dots color
             sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || true
             sed -i 's/stroke="[^"]*"/stroke="#0011FF"/g' "$f" || true
-            
-            # ADD NEON BLUE BACKGROUND RECTANGLE
-            sed -i 's/<svg /<svg style="background:#0011FF;" /' "$f" || true
+
+            # Force background to neon blue (#0011FF)
+            sed -i 's/<rect width="100%" height="100%"[^>]*>/<rect width="100%" height="100%" fill="#0011FF" \/>/g' "$f" || true
           done
-          echo "✅ Neon blue background applied!"
+          echo "✅ Neon blue applied successfully!"
 
       - name: 🚀 Deploy Neon Blue Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
