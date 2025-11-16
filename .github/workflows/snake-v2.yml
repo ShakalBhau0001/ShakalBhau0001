@@ -6,13 +6,13 @@
 <svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background -->
-  <rect width="100%" height="100%" fill="#0011FF"/>
+  <rect width="100%" height="100%" fill="cyan"/>
 
   <!-- Glowing Dots -->
   <g id="dots"></g>
 
   <!-- Snake Path -->
-  <polyline id="snake" fill="none" stroke="#00FFF2" stroke-width="6" 
+  <polyline id="snake" fill="none" stroke="skyblue" stroke-width="6" 
     stroke-linecap="round" stroke-linejoin="round">
   </polyline>
 
@@ -36,7 +36,7 @@
       c.setAttribute("cx", x);
       c.setAttribute("cy", y);
       c.setAttribute("r", 3);
-      c.setAttribute("fill", "#00FFF2");
+      c.setAttribute("fill", "skyblue");
       dots.appendChild(c);
     }
 
