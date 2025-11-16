@@ -1,0 +1,176 @@
+name: 🐍 Neon Snake 
+
+on:
+  schedule:
+    - cron: "0 */3 * * *" # every 3 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: snake-final
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: 🧩 Build & Deploy Custom Neon Snake
+    runs-on: ubuntu-latest
+    if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
+    permissions:
+      contents: write
+
+    steps:
+      - name: 🪶 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🧱 Make dist directory
+        run: mkdir -p dist
+
+      - name: 🐍 Generate Custom Neon Snake SVG
+        run: |
+          cat > dist/github-contribution-grid-snake-neon.svg <<EOF
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <radialGradient id="dotGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FFF2" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#00FFF2" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00FFF2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0011FF"/>
+
+  <!-- container groups -->
+  <g id="dots" filter="url(#neon-glow)"></g>
+  <g id="snake-group" filter="url(#neon-glow)">
+    <polyline id="snake" fill="none" stroke="#00FFF2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <style>
+    /* ensure circles are smooth */
+    circle.dot { transition: r 120ms ease; }
+  </style>
+
+  <script><![CDATA[
+    (function() {
+      const SVG_NS = "http://www.w3.org/2000/svg";
+      const W = 900, H = 300;
+      const dotCount = 350;           // number of dots
+      const dotsGroup = document.getElementById("dots");
+      const snakeEl = document.getElementById("snake");
+
+      // Helper
+      function rand(min, max){ return Math.random()*(max-min)+min; }
+
+      // Create dots
+      let dotPositions = [];
+      for(let i=0;i<dotCount;i++){
+        const x = rand(20, W-20);
+        const y = rand(20, H-20);
+        dotPositions.push([x,y]);
+
+        const c = document.createElementNS(SVG_NS, "circle");
+        c.classList.add("dot");
+        c.setAttribute("cx", x);
+        c.setAttribute("cy", y);
+        c.setAttribute("r", 4);
+        c.setAttribute("fill", "url(#dotGlow)");
+        dotsGroup.appendChild(c);
+      }
+
+      // Snake state
+      let snakeBody = [];
+      const initialX = 120, initialY = H/2;
+      snakeBody.push([initialX, initialY]);
+      let vx = 2.6, vy = 0;
+      let length = 60;           // visible length
+      const growthPerDot = 4;    // grows when eating
+
+      // Movement tuning
+      const turnChance = 0.025;
+      const maxVel = 3.2;
+
+      function updateSnake() {
+        const head = snakeBody[snakeBody.length - 1];
+        // Slightly steer towards random nearby target occasionally
+        if (Math.random() < turnChance) {
+          vx += rand(-1.5, 1.5);
+          vy += rand(-1.5, 1.5);
+          // clamp speed
+          const sp = Math.hypot(vx, vy);
+          if (sp > maxVel) {
+            vx = (vx / sp) * maxVel;
+            vy = (vy / sp) * maxVel;
+          }
+        }
+
+        // bounds bounce
+        if (head[0] + vx < 10 || head[0] + vx > W-10) vx *= -1;
+        if (head[1] + vy < 10 || head[1] + vy > H-10) vy *= -1;
+
+        const newHead = [head[0] + vx, head[1] + vy];
+        snakeBody.push(newHead);
+        while (snakeBody.length > length) snakeBody.shift();
+
+        // Update polyline points
+        snakeEl.setAttribute("points", snakeBody.map(p => p.join(",")).join(" "));
+
+        // Eat dots: check distance and remove the DOM node + position
+        for (let i = dotPositions.length - 1; i >= 0; i--) {
+          const d = dotPositions[i];
+          const dx = d[0] - newHead[0];
+          const dy = d[1] - newHead[1];
+          const dist = Math.hypot(dx, dy);
+          if (dist < 14) {
+            length += growthPerDot;
+            // remove circle DOM node safely
+            const node = dotsGroup.childNodes[i];
+            if (node) {
+              // small pulse before removing
+              node.setAttribute("r", 8);
+              (function(n){
+                setTimeout(()=>{ try{ n.parentNode.removeChild(n); }catch(e){} }, 60);
+              })(node);
+            }
+            dotPositions.splice(i,1);
+          }
+        }
+
+        requestAnimationFrame(updateSnake);
+      }
+
+      // initialize more varied body to look nicer at start
+      for(let i=0;i<20;i++){
+        snakeBody.push([initialX + i*2, initialY + Math.sin(i/3)*2]);
+      }
+
+      // Start animation loop
+      requestAnimationFrame(updateSnake);
+    })();
+  ]]></script>
+
+</svg>
+EOF
+
+      - name: 🚀 Deploy Neon Blue Snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-v2
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✅ Finished
+        run: echo "Neon snake generated and deployed to output-v2"
