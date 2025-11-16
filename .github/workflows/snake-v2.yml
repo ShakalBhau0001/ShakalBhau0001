@@ -1,4 +1,4 @@
-name: 🐍 Neon Snake Animation Enhanced
+name: 🐍 Neon Snake Animation Enhance
 
 on:
   schedule:
@@ -25,36 +25,30 @@ jobs:
       - name: 🪶 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: ⚡ Setup Cache
+      - name: ⚡ Cache
         uses: actions/cache@v4
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-snake-cache-v4
+          key: ${{ runner.os }}-snake-cache-v5
 
       - name: 🌈 Generate Ultra Neon Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+
+          # 🐍 Snake Color
           color_snake: "#0011FF"
+
+          # 🍬 Dot Colors (Neon Blue)
           color_dots: "#0011FF,#0011FF,#0011FF"
+
+          # 🎨 Background Palette (THIS is the REAL FIX)
+          palette: |
+            - background: "#0011FF"
+
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
             dist/github-contribution-grid-snake-neon.svg
-
-      - name: 🔧 Neon Blue Recolor + Background Fix
-        run: |
-          echo "🎨 Applying neon blue theme..."
-          for f in dist/github-contribution-grid-snake*.svg; do
-            # Snake + dots color
-            sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || true
-            sed -i 's/stroke="[^"]*"/stroke="#0011FF"/g' "$f" || true
-
-            # Force background to neon blue (#0011FF)
-            sed -i 's/<rect width="100%" height="100%"[^>]*>/<rect width="100%" height="100%" fill="#0011FF" \/>/g' "$f" || true
-          done
-          echo "✅ Neon blue applied successfully!"
 
       - name: 🚀 Deploy Neon Blue Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -64,7 +58,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: ✅ Confirm Success
-        run: |
-          echo "🎉 Ultra Neon Blue Snake deployed successfully!"
-          echo "🐍 Background + Snake + Dots all set to #0011FF!"
+      - name: 🔥 Done
+        run: echo "Neon Blue Snake Rendered Successfully!"
