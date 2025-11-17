@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=IniTialiZing+SeCuRe+SeSsIoN...;LoaDing+ShakalBhau0001+PrOfIlE...;CyBerSeCuRiTy+ReSeArChEr+;+FuLL-StAcK+DeVeLoPeR;EnCrypTing+CoNnEcTiOnS+;+BrEaKiNg+BaRrIeRs;THink+BeFoRe+YoU+CLicK+;+EnCrYpT+BeFoRe+YoU+SeNd!;System+InTeGrItY:+StAbLe+%26+SeCuRe;CoNnEcTiOn+To+CoRe+EsTaBlIsHeD"/>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ShakalBhau0001&label=Profile+Views&color=00FFFF&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 # 💀 whoami
