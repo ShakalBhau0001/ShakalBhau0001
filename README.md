@@ -191,7 +191,7 @@ For security tools, include **test-cases and non-production data only**.
 ---
 
 **Liked what you see?**  
-Follow me on [GitHub](https://github.com/ShakalBhau0001) and ⭐⭐⭐⭐ star the repositories you like!  
+Follow me on **[GitHub](https://github.com/ShakalBhau0001)** and **⭐⭐⭐⭐ star the repositories** you like!  
 Your support keeps me motivated to create more awesome projects 🚀
 
 ---
