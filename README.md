@@ -171,11 +171,11 @@ For security tools, include **test-cases and non-production data only**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/output-v2/github-contribution-grid-snake-neon.svg" alt="snake animation"/>
 </p>
--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/output/github-contribution-grid-snake-neon.svg" alt="snake animation"/>
 </p>
+-->
 
 <p align="center">
   <a href="https://shakalbhau0001.github.io/ShakalBhau0001/foot-ban.html" target="_blank">
