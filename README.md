@@ -16,7 +16,7 @@
 # 💀 whoami
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/main/assets/banner.svg" alt="ShakalBhau0001 Cyber Banner"/>
+  <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/main/assets/banner.svg" alt="Cyber Banner"/>
 </p>
 
 ---
