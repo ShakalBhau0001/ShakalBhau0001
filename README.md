@@ -198,4 +198,10 @@ For security tools, include **test-cases and non-production data only**.
 Follow me on **[GitHub](https://github.com/ShakalBhau0001)** and **⭐⭐⭐⭐ star the repositories** you like!  
 Your support keeps me motivated to create more awesome projects 🚀
 
----
+```
+˚∧＿∧  　+        —̳͟͞͞⭐
+(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
+(つ　 <                —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
+｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
+`し´
+```
