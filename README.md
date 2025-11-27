@@ -126,7 +126,7 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ShadowCryption-WIP-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ShadowCryption-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cyber--Toolbox-WIP-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DataLeak--Sentinel-WIP-00BFFF?style=for-the-badge"/>
 </p>
