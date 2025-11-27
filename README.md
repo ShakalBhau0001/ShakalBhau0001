@@ -24,7 +24,7 @@
 ## 🛡 CYBER ARSENAL
 
 ```bash
-[ LANGUAGES ]  Python  ·  C++  ·  Java  ·  JavaScript  ·  Bash
+[ LANGUAGES ]  Python  ·  C  ·  Java  ·  JavaScript  
 [ TOOLS     ]  Kali Linux  ·  Metasploit  ·  BurpSuite  ·  Nmap  ·  Wireshark
 [ BACKEND   ]  Python  ·  Java  ·  MySQL
 [ FRONTEND  ]  HTML  ·  CSS  ·  JavaScript  ·  React 
@@ -120,7 +120,7 @@
 ## 🔓 LIVE PROJECTS
 
 ```bash
-[01] ShadowCryption    -> Unified Encrypted Messaging + Steganography   (WIP)
+[01] ShadowCryption    -> Unified Encrypted Messaging + Steganography   
 [02] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit          (WIP)
 [03] DataLeak Sentinel -> Real-Time PII & Data Breach Detection         (WIP)
 ```
