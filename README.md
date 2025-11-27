@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-00BFFF?style=for-the-badge&logo=python&logoColor=black" alt="python-badge"/>
-  <img src="https://img.shields.io/badge/C++-17-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="cpp-badge"/>
+  <img src="https://img.shields.io/badge/C-17-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="cpp-badge"/>
   <img src="https://img.shields.io/badge/Java-17-00BFFF?style=for-the-badge&logo=java&logoColor=black" alt="java-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-00BFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="js-badge"/>
   <img src="https://img.shields.io/badge/Kali-Linux-00BFFF?style=for-the-badge&logo=kali-linux&logoColor=black" alt="kali-badge"/>
@@ -101,7 +101,7 @@
     <img
       alt="GitHub Streak"
       src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true"
-      height="160"
+      height="150"
     />
   </a>
 </p>
