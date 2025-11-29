@@ -121,17 +121,15 @@
 
 ```bash
 [01] ShadowCryption    -> Unified Encrypted Messaging + Steganography   
-[02] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit          (WIP)
-[03] DataLeak Sentinel -> Real-Time PII & Data Breach Detection         (WIP)
+[02] Cyber-Toolbox     -> Advanced Ethical Hacking Utility Kit          
+[03] DataLeak Sentinel -> Real-Time PII & Data Breach Detection         
 ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/ShadowCryption-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cyber--Toolbox-WIP-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DataLeak--Sentinel-WIP-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cyber--Toolbox-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DataLeak--Sentinel-00BFFF?style=for-the-badge"/>
 </p>
-
-> 🌐 Access: [GitHub Profile](https://github.com/ShakalBhau0001)
 
 ---
 
