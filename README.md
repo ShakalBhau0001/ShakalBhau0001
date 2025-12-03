@@ -158,6 +158,8 @@ TryHackMe : https://tryhackme.com/p/ShakalBhau0001
 ```bash
 "Privacy is Power; Encryption is Armor; Knowledge is Weapon;"
 "Trust Zero; Encrypt Everything;"
+"Identity is Vulnerable; Anonymity is Freedom;"
+"Data is Gold; Protect it Like Life;"
 ```
 
 ---
