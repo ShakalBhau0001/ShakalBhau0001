@@ -91,9 +91,9 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="github-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="github-stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170" alt="top-langs"/>
 </p>
 
 <p align="center">
