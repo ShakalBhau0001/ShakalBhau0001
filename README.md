@@ -24,7 +24,7 @@
 ## 🛡 CYBER ARSENAL
 
 ```bash
-[ LANGUAGES ]  Python  ·  C  ·  Java  ·  JavaScript  
+[ LANGUAGES ]  Python  ·  C  ·  Java  ·  JavaScript  ·  C#
 [ TOOLS     ]  Kali Linux  ·  Metasploit  ·  BurpSuite  ·  Nmap  ·  Wireshark
 [ BACKEND   ]  Python  ·  Java  ·  MySQL
 [ FRONTEND  ]  HTML  ·  CSS  ·  JavaScript  ·  React 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-00BFFF?style=for-the-badge&logo=python&logoColor=black" alt="python-badge"/>
-  <img src="https://img.shields.io/badge/C-17-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="cpp-badge"/>
+  <img src="https://img.shields.io/badge/C-17-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=black" alt="c-badge"/>
   <img src="https://img.shields.io/badge/Java-17-00BFFF?style=for-the-badge&logo=java&logoColor=black" alt="java-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-00BFFF?style=for-the-badge&logo=javascript&logoColor=black" alt="js-badge"/>
   <img src="https://img.shields.io/badge/Kali-Linux-00BFFF?style=for-the-badge&logo=kali-linux&logoColor=black" alt="kali-badge"/>
@@ -72,30 +72,6 @@
 
 ## 📊 SYSTEM STATUS
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="github-stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=dark&hide_border=true" height="170" alt="top-langs"/>
-</p>
-
- <p align="center">
-  <a href="https://github.com/ShakalBhau0001">
-    <img
-      alt="GitHub Streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ShakalBhau0001&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideNums=00BFFF&sideLabels=FFFFFF&background=00000000&v=78"
-      height="160"
-    />
-  </a>
-</p> 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="github-stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170" alt="top-langs"/>
-</p>
--->
-
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img
@@ -106,6 +82,24 @@
   </a>
 </p>
 
+### 🔹 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakalBhau0001&theme=tokyonight" width="100%">
+</p>
+
+### 🔹 Stats  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShakalBhau0001&theme=tokyonight" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShakalBhau0001&theme=tokyonight" height="150">
+</p>
+
+### 🔹 Languages  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakalBhau0001&theme=tokyonight" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShakalBhau0001&theme=tokyonight" height="150">
+</p>
+
+
 ---
 
 <p align="center">
@@ -114,6 +108,8 @@
          alt="System Banner" width="700"/>
   </a>
 </p>
+
+
 
 ---
 
@@ -206,3 +202,13 @@ Your support keeps me motivated to create more awesome projects 🚀
 ｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
 `し´
 ```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
