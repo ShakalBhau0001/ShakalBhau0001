@@ -72,6 +72,8 @@
 
 ## 📊 SYSTEM STATUS
 
+### 🔹 Streak Status
+
 <p align="center">
   <a href="https://github.com/ShakalBhau0001">
     <img
@@ -196,10 +198,10 @@ Follow me on **[GitHub](https://github.com/ShakalBhau0001)** and **⭐⭐⭐⭐ 
 Your support keeps me motivated to create more awesome projects 🚀
 
 ```
-˚∧＿∧  　+        —̳͟͞͞⭐
-(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
-(つ　 <                —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
-｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
+˚∧＿∧  　+         —̳͟͞͞⭐      —̳͟͞͞⭐  +
+(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐     —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
+(つ　 <    +         —̳͟͞͞⭐      —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
+｜　 _つ      +  —̳͟͞͞⭐             —̳͟͞͞⭐ ˚
 `し´
 ```
 
