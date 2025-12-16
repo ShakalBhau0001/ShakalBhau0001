@@ -21,8 +21,10 @@
 
 ---
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
+<p align=""center>
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="300px" width="100%"
+</p>
+  
 ---
 
 ## 🛡 CYBER ARSENAL
