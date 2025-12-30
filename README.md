@@ -105,7 +105,7 @@
 ### 🔹 Languages  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakalBhau0001&theme=tokyonight" height="150">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
+  <!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShakalBhau0001&theme=tokyonight" height="150">
 </p>
 
@@ -202,7 +202,7 @@ For security tools, include **test-cases and non-production data only**.
 ---
 
 **Liked what you see?**  
-Follow me on **[GitHub](https://github.com/ShakalBhau0001)** and **⭐⭐⭐⭐ star the repositories** you like!  
+Follow me on **_[GitHub](https://github.com/ShakalBhau0001)_** and **⭐⭐⭐⭐ star the repositories** you like!  
 Your support keeps me motivated to create more awesome projects 🚀
 
 ```
