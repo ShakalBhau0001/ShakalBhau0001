@@ -11,6 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShakalBhau0001&label=Profile+Views&color=00FFFF&style=flat" alt="Profile views" />
 </p>
 
+<!--
 ---
 
 # 💀 whoami
@@ -26,6 +27,8 @@
 </p>
   
 ---
+-->
+
 
 ## 🛡 CYBER ARSENAL
 
@@ -176,8 +179,6 @@ If you'd like to contribute, open an issue or PR on the relevant repo.
 For security tools, include **test-cases and non-production data only**.  
 🚫 No zero-day disclosures in public repos — report responsibly.
 
----
-
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/output-v2/github-contribution-grid-snake-neon.svg" alt="snake animation"/>
@@ -186,7 +187,6 @@ For security tools, include **test-cases and non-production data only**.
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShakalBhau0001/ShakalBhau0001/output/github-contribution-grid-snake-neon.svg" alt="snake animation"/>
 </p>
--->
 
 <p align="center">
   <a href="https://shakalbhau0001.github.io/ShakalBhau0001/foot-ban.html" target="_blank">
@@ -198,6 +198,7 @@ For security tools, include **test-cases and non-production data only**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00BFFF&height=120&section=footer" alt="footer"/>
 </p>
+-->
 
 ---
 
@@ -213,13 +214,12 @@ Your support keeps me motivated to create more awesome projects 🚀
 `し´
 ```
 
----
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" />
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-
