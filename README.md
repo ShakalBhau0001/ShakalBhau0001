@@ -49,8 +49,10 @@ I am actively looking for internship / entry-level opportunities where I can gro
 
 ## 📌 Projects 
 
-### 🔐 ShadowCryption  
+### 🔐 ShadowCryption
 **Encrypted Messaging & Steganography (Learning Project)**
+
+Learning-focused project exploring encryption concepts and steganography techniques for secure data handling. Built for educational and ethical experimentation.
 
 - Implemented encryption concepts for secure message handling  
 - Experimented with hiding data inside media files  
@@ -62,20 +64,12 @@ I am actively looking for internship / entry-level opportunities where I can gro
 ### 🧰 Cyber-Toolbox  
 **Ethical Hacking Utility Collection**
 
+Collection of ethical hacking and reconnaissance utilities built for learning penetration testing workflows in controlled lab environments.
+
 - Practiced reconnaissance and scanning techniques  
 - Hands-on use of Nmap, Metasploit, and Kali Linux tools  
 - Learned penetration testing workflow in lab setups  
-- Strictly for ethical and educational use  
-
----
-
-### 🛡 DataLeak Sentinel  
-**PII & Data Exposure Detection (Learning Project)**
-
-- Worked on detecting sensitive data patterns  
-- Explored privacy risks and data leakage scenarios  
-- Focused on awareness, not automated enforcement  
-- Educational prototype  
+- Strictly for ethical and educational use
 
 ---
 
