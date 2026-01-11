@@ -3,7 +3,6 @@
 
 I am a cybersecurity beginner with hands-on project experience in ethical hacking tools, secure coding, and data protection concepts.  
 My focus is on learning by building, understanding how attacks work, and how systems can be secured in practice.
-
 I am actively looking for internship / entry-level opportunities where I can grow under mentorship and contribute responsibly.
 
 ---
@@ -82,7 +81,7 @@ I am actively looking for internship / entry-level opportunities where I can gro
 
 ## 📚 Continuous Learning
 
-- TryHackMe — active learner  
+- TryHackMe — learner  
 - Self-study of cybersecurity fundamentals  
 - Learning secure coding & backend security  
 - Improving GitHub projects incrementally  
