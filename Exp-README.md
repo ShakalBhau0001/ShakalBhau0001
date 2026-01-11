@@ -74,7 +74,7 @@
 </p>
 
 
----
+<!--
 
 ## 📊 SYSTEM STATUS
 
@@ -97,7 +97,7 @@
 
 ### 🔹 Stats  
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150px"/> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=ShakalBhau0001&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150px"/> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShakalBhau0001&theme=tokyonight" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShakalBhau0001&theme=tokyonight" height="150">
 </p>
@@ -105,7 +105,7 @@
 ### 🔹 Languages  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakalBhau0001&theme=tokyonight" height="150">
-  <!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"> -->
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShakalBhau0001&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShakalBhau0001&theme=tokyonight" height="150">
 </p>
 
@@ -119,9 +119,7 @@
   </a>
 </p>
 
-
-
----
+-->
 
 ## 🔓 LIVE PROJECTS
 
