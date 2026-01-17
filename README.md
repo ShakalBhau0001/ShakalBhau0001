@@ -1,4 +1,4 @@
-# Hi, I’m Shakalen Shaikh 👋  
+# Hi, I’m Shakalen Nabilal Shaikh 👋  
 ### Cybersecurity Learner | Secure Application Developer
 
 I am a cybersecurity beginner with hands-on project experience in ethical hacking tools, secure coding, and data protection concepts.  
@@ -20,15 +20,17 @@ I am actively looking for internship / entry-level opportunities where I can gro
 ## 🛠 Technical Skills 
 
 ### Programming & Development
-- Python, C, Java, JavaScript  
+- Python, C, Java, JavaScript
 - HTML, CSS, React (basic)  
-- Node.js, Express  
-- REST APIs  
+- Node.js 
+- REST APIs
+- FAST APIs
 
 ### Databases
 - MySQL  
 - PostgreSQL  
-- SQLite  
+- SQLite
+- MongoDB 
 
 ### Cybersecurity Tools
 - Kali Linux  
