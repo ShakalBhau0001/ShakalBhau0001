@@ -89,7 +89,8 @@ Collection of ethical hacking and reconnaissance utilities built for learning pe
 - **Email:** shakalbhau007@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/shakal-bhau-15sa07  
 - **GitHub:** https://github.com/ShakalBhau0001  
-- **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001  
+- **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001
+- **LeetCode:** https://leetcode.com/u/ShakalBhau0001
 
 ---
 
