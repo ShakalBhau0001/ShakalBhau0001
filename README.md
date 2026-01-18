@@ -51,7 +51,7 @@ I am actively looking for internship / entry-level opportunities where I can gro
 
 ## 📌 Projects 
 
-### 🔐 ShadowCryption
+### 🔐 ShadowCryption Web Application
 **Encrypted Messaging & Steganography (Learning Project)**
 
 Learning-focused project exploring encryption concepts and steganography techniques for secure data handling. Built for educational and ethical experimentation.
