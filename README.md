@@ -12,7 +12,7 @@ I am actively looking for internship / entry-level opportunities where I can gro
 - Build security-focused projects, not just demos  
 - Practice ethical hacking tools in lab environments only  
 - Learn secure backend & web development  
-- Study real-world vulnerabilities (OWASP Top 10)  
+- Studying real-world vulnerabilities
 - Improve through TryHackMe labs & self-study  
 
 ---
@@ -20,8 +20,8 @@ I am actively looking for internship / entry-level opportunities where I can gro
 ## 🛠 Technical Skills 
 
 ### Programming & Development
-- Python, C, Java, JavaScript
-- HTML, CSS, React (basic)  
+- Python, Java(Basic), JavaScript
+- HTML, CSS, React (Basic)  
 - Node.js 
 - REST APIs
 - FAST APIs
@@ -41,10 +41,8 @@ I am actively looking for internship / entry-level opportunities where I can gro
 
 ### Security Knowledge
 - Web application security basics  
-- OWASP Top 10 (learning & practice)  
 - Encryption fundamentals  
-- Steganography concepts  
-- PII & data exposure awareness  
+- Steganography concepts   
 - Secure coding practices  
 
 ---
@@ -78,10 +76,10 @@ Collection of ethical hacking and reconnaissance utilities built for learning pe
 ## 📚 Continuous Learning
 
 - TryHackMe — learner  
+- HackTheBox — learner
 - Self-study of cybersecurity fundamentals  
 - Learning secure coding & backend security  
 - Improving GitHub projects incrementally  
-
 ---
 
 ## 📬 Connect With Me
@@ -98,7 +96,6 @@ Collection of ethical hacking and reconnaissance utilities built for learning pe
 
 All projects are built for learning and ethical purposes only.  
 I do not engage in unauthorized testing or misuse of security tools.
-
 I believe strong security starts with understanding systems deeply,  
 writing clean code, and respecting ethical boundaries.
 
