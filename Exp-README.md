@@ -74,8 +74,6 @@
 </p>
 
 
-<!--
-
 ## 📊 SYSTEM STATUS
 
 ### 🔹 Streak Status
@@ -119,7 +117,6 @@
   </a>
 </p>
 
--->
 
 ## 🔓 LIVE PROJECTS
 
