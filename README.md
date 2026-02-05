@@ -24,7 +24,7 @@ I am actively looking for internship / entry-level opportunities where I can gro
 - HTML, CSS, React (Basic)  
 - Node.js 
 - REST APIs
-- FAST APIs
+- FastAPI
 
 ### Databases
 - MySQL  
