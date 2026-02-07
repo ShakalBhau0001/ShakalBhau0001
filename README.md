@@ -98,17 +98,3 @@ All projects are built for learning and ethical purposes only.
 I do not engage in unauthorized testing or misuse of security tools.
 I believe strong security starts with understanding systems deeply,  
 writing clean code, and respecting ethical boundaries.
-
----
-
-**Liked what you see?**  
-Follow me on **_[GitHub](https://github.com/ShakalBhau0001)_** and **⭐⭐⭐⭐ star the repositories** you like!  
-Your support keeps me motivated to create more awesome projects 🚀
-
-```
-˚∧＿∧  　+         —̳͟͞͞⭐      —̳͟͞͞⭐  +
-(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐     —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
-(つ　 <    +         —̳͟͞͞⭐      —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
-｜　 _つ      +  —̳͟͞͞⭐             —̳͟͞͞⭐ ˚
-`し´
-```
