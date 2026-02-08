@@ -20,17 +20,19 @@ I am actively looking for internship / entry-level opportunities where I can gro
 ## 🛠 Technical Skills 
 
 ### Programming & Development
-- Python, Java(Basic), JavaScript
-- HTML, CSS, React (Basic)  
-- Node.js 
-- REST APIs
-- FastAPI
+- Python  
+- Java (Basic)  
+- JavaScript  
+- HTML, CSS  
+- React (Basic)  
+- Node.js  
+- FastAPI (learning)
 
 ### Databases
 - MySQL  
 - PostgreSQL  
-- SQLite
-- MongoDB 
+- SQLite  
+- MongoDB  
 
 ### Cybersecurity Tools
 - Kali Linux  
@@ -40,9 +42,10 @@ I am actively looking for internship / entry-level opportunities where I can gro
 - Wireshark  
 
 ### Security Knowledge
-- Web application security basics  
-- Encryption fundamentals  
-- Steganography concepts   
+- Web application security fundamentals  
+- Authentication & session concepts  
+- Encryption basics  
+- Steganography concepts  
 - Secure coding practices  
 
 ---
@@ -50,26 +53,27 @@ I am actively looking for internship / entry-level opportunities where I can gro
 ## 📌 Projects 
 
 ### 🔐 ShadowCryption Web Application
-**Encrypted Messaging & Steganography (Learning Project)**
+**Encryption & Steganography Concepts (Educational Project)**
 
-Learning-focused project exploring encryption concepts and steganography techniques for secure data handling. Built for educational and ethical experimentation.
+A learning project exploring encryption principles and steganography techniques for secure data handling.
 
-- Implemented encryption concepts for secure message handling  
-- Experimented with hiding data inside media files  
-- Focused on confidentiality and data protection principles  
-- Educational project — not production-ready  
+- Experimented with encryption logic  
+- Data hiding concepts using media files  
+- Focused on confidentiality principles  
+- Educational use only
 
 ---
 
-### 🧰 Cyber-Toolbox  
-**Ethical Hacking Utility Collection**
+### 🔐 Appwrite Login Dashboard  
+**Frontend Authentication & Session Handling (Learning Project)**
 
-Collection of ethical hacking and reconnaissance utilities built for learning penetration testing workflows in controlled lab environments.
+A frontend-only authentication project built using HTML, CSS, JavaScript, and Appwrite.  
+Focused on understanding login flows, session validation, and protected routes.
 
-- Practiced reconnaissance and scanning techniques  
-- Hands-on use of Nmap, Metasploit, and Kali Linux tools  
-- Learned penetration testing workflow in lab setups  
-- Strictly for ethical and educational use
+- Email & password authentication  
+- Session-based dashboard protection  
+- Clean separation of UI and authentication logic  
+- Learning-focused, non-production project
 
 ---
 
@@ -82,19 +86,19 @@ Collection of ethical hacking and reconnaissance utilities built for learning pe
 - Improving GitHub projects incrementally  
 ---
 
-## 📬 Connect With Me
+## 📬 Contact & Profiles
 
 - **Email:** shakalbhau007@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/shakal-bhau-15sa07  
 - **GitHub:** https://github.com/ShakalBhau0001  
-- **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001
-- **LeetCode:** https://leetcode.com/u/ShakalBhau0001
+- **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001  
+- **LeetCode:** https://leetcode.com/u/ShakalBhau0001  
 
 ---
 
-## 📝 Professional Note
+## 📝 Note
 
-All projects are built for learning and ethical purposes only.  
-I do not engage in unauthorized testing or misuse of security tools.
-I believe strong security starts with understanding systems deeply,  
-writing clean code, and respecting ethical boundaries.
+All projects are created for **educational and ethical learning purposes only**.  
+I do not participate in unauthorized testing or misuse of tools.  
+My goal is to build a strong foundation in cybersecurity through responsible learning and clean, understandable code.
+
