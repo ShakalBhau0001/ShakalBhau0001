@@ -1,37 +1,35 @@
 # Hi, I’m Shakalen Nabilal Shaikh 👋  
-### Cybersecurity Learner | Secure Application Developer
+### Cybersecurity & Secure Application Development
 
-I am a cybersecurity beginner with hands-on project experience in ethical hacking tools, secure coding, and data protection concepts.  
-My focus is on learning by building, understanding how attacks work, and how systems can be secured in practice.
-I am actively looking for internship / entry-level opportunities where I can grow under mentorship and contribute responsibly.
+Focused on building secure, authentication-driven web applications while strengthening practical cybersecurity fundamentals.
 
----
-
-## 🔍 What I Actually Do 
-
-- Build security-focused projects, not just demos  
-- Practice ethical hacking tools in lab environments only  
-- Learn secure backend & web development  
-- Studying real-world vulnerabilities
-- Improve through TryHackMe labs & self-study  
+I build learning-focused projects to understand how real systems are attacked and secured. I actively practice secure coding, backend development, and vulnerability awareness through hands-on projects and cybersecurity labs.  
+Currently seeking internship / entry-level opportunities where I can grow under mentorship and contribute responsibly.
 
 ---
 
-## 🛠 Technical Skills 
+## 🔍 Focus Areas
+
+- Build security-focused learning projects  
+- Practice ethical hacking tools in controlled lab environments  
+- Learn secure backend & web application development  
+- Study common web application vulnerabilities (OWASP-based)  
+- Improve through TryHackMe labs and independent research  
+
+---
+
+## 🛠 Technical Skills  
 
 ### Programming & Development
 - Python  
-- Java (Basic)  
+- Java  
 - JavaScript  
 - HTML, CSS  
-- React (Basic)  
-- Node.js  
-- FastAPI (learning)
+- FastAPI (currently exploring)
 
 ### Databases
 - MySQL  
 - PostgreSQL  
-- SQLite  
 - MongoDB  
 
 ### Cybersecurity Tools
@@ -43,54 +41,64 @@ I am actively looking for internship / entry-level opportunities where I can gro
 
 ### Security Knowledge
 - Web application security fundamentals  
-- Authentication & session concepts  
+- Authentication and session management concepts  
 - Encryption basics  
 - Steganography concepts  
 - Secure coding practices  
 
 ---
 
-## 📌 Projects 
+## 🚧 What I’m Currently Working On
 
-### 🔐 ShadowCryption Web Application
-**Encryption & Steganography Concepts (Educational Project)**
+- Building authentication-based web applications  
+- Improving session handling and access control logic  
+- Practicing secure backend development concepts  
+- Refining existing cybersecurity learning projects  
+- Strengthening fundamentals through labs and hands-on experimentation  
 
-A learning project exploring encryption principles and steganography techniques for secure data handling.
+---
 
-- Experimented with encryption logic  
-- Data hiding concepts using media files  
-- Focused on confidentiality principles  
-- Educational use only
+## 📌 Projects  
+
+### 🔐 ShadowCryption Web Application  
+**Encryption & Steganography Concepts (Educational Project)**  
+
+A learning-focused project exploring encryption principles and steganography techniques for secure data handling.
+
+- Implemented encryption logic for message protection  
+- Explored data hiding concepts using media files  
+- Worked with file handling and confidentiality concepts  
+- Designed strictly for educational experimentation  
 
 ---
 
 ### 🔐 Appwrite Login Dashboard  
-**Frontend Authentication & Session Handling (Learning Project)**
+**Frontend Authentication & Session Handling (Learning Project)**  
 
-A frontend-only authentication project built using HTML, CSS, JavaScript, and Appwrite.  
-Focused on understanding login flows, session validation, and protected routes.
+A frontend authentication project built using HTML, CSS, JavaScript, and Appwrite, focused on understanding authentication workflows and session-based route protection.
 
-- Email & password authentication  
-- Session-based dashboard protection  
-- Clean separation of UI and authentication logic  
-- Learning-focused, non-production project
+- Implemented email & password authentication  
+- Developed session-based dashboard protection  
+- Implemented client-side session validation using Appwrite SDK  
+- Maintained clear separation of UI and authentication logic  
+- Learning-focused and not intended for production use  
 
 ---
 
 ## 📚 Continuous Learning
 
-- TryHackMe — learner  
-- HackTheBox — learner
+- Active on TryHackMe  
+- Practicing beginner labs on HackTheBox  
 - Self-study of cybersecurity fundamentals  
-- Learning secure coding & backend security  
-- Improving GitHub projects incrementally  
+- Learning secure coding and backend security  
+- Continuously improving GitHub projects  
+
 ---
 
 ## 📬 Contact & Profiles
 
 - **Email:** shakalbhau007@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/shakal-bhau-15sa07  
-- **GitHub:** https://github.com/ShakalBhau0001  
 - **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001  
 - **LeetCode:** https://leetcode.com/u/ShakalBhau0001  
 
@@ -98,7 +106,6 @@ Focused on understanding login flows, session validation, and protected routes.
 
 ## 📝 Note
 
-All projects are created for **educational and ethical learning purposes only**.  
-I do not participate in unauthorized testing or misuse of tools.  
-My goal is to build a strong foundation in cybersecurity through responsible learning and clean, understandable code.
-
+All projects are built for educational purposes and ethical cybersecurity learning.  
+I follow responsible security practices and do not engage in unauthorized testing.  
+My goal is to build strong foundational knowledge through clean, understandable, and security-focused development.
