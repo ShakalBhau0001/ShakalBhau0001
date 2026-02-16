@@ -81,7 +81,17 @@ A frontend authentication project built using HTML, CSS, JavaScript, and Appwrit
 - Developed session-based dashboard protection  
 - Implemented client-side session validation using Appwrite SDK  
 - Maintained clear separation of UI and authentication logic  
-- Learning-focused and not intended for production use  
+- Learning-focused and not intended for production use
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- **Microsoft Azure Fundamentals (AZ-900)** – Certified  
+  Foundational knowledge of Azure cloud services, security, identity, and compliance concepts.
+
+- **TCS CodeVita** – Qualified Round 1 (Rank 13011)  
+  Participated in global competitive programming contest demonstrating problem-solving skills.
 
 ---
 
