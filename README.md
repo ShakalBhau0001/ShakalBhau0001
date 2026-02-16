@@ -88,10 +88,10 @@ A frontend authentication project built using HTML, CSS, JavaScript, and Appwrit
 ## 🏆 Achievements & Certifications  
 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified  
-  Foundational knowledge of Azure cloud services, security, identity, and compliance concepts.
+  Demonstrated foundational knowledge of Azure cloud services, security, identity, and compliance concepts.
 
-- **TCS CodeVita** – Qualified Round 1 (Rank 13011)  
-  Participated in global competitive programming contest demonstrating problem-solving skills.
+- **TCS CodeVita (Global Coding Contest)** – Qualified Round 1  
+  Rank: 13011
 
 ---
 
