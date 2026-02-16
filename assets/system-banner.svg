@@ -14,7 +14,7 @@
     <text x="70" y="102">CPU      : ██████████░ 88%</text>
     <text x="70" y="132">MEMORY   : ████████░░░ 70%</text>
     <text x="70" y="162">NET      : █████████░░ 80%</text>
-    <text x="70" y="192">SESSION  : 4 active tunnels | 27 open projects</text>
+    <text x="70" y="192">SESSION  : 4 active tunnels | 40 open projects</text>
     <text x="70" y="222">ACTIVITY : Developing &amp; Learning ⚡</text>
   </g>
   
