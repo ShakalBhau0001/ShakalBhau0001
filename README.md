@@ -52,7 +52,8 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 - Building authentication-based web applications  
 - Improving session handling and access control logic  
-- Practicing secure backend development concepts  
+- Practicing secure backend development concepts
+- Learning cryptographic algorithms
 - Refining existing cybersecurity learning projects  
 - Strengthening fundamentals through labs and hands-on experimentation  
 
