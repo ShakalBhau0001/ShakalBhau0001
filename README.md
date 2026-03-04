@@ -8,13 +8,13 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ---
 
-## 🔍 Focus Areas
+## 🔍 Core Focus
 
-- Build security-focused learning projects  
-- Practice ethical hacking tools in controlled lab environments  
-- Learn secure backend & web application development  
-- Study common web application vulnerabilities (OWASP-based)  
-- Improve through TryHackMe labs and independent research  
+- Secure backend & web application development  
+- Authentication, session handling, and access control design  
+- Web application vulnerabilities (OWASP-aligned study)  
+- Encryption fundamentals & applied cryptography  
+- Security-aware system design principles  
 
 ---
 
@@ -42,10 +42,10 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 ### Security Knowledge
 - Web application security fundamentals  
 - Authentication and session management concepts  
-- Encryption basics  
-- Steganography concepts  
-- Secure coding practices
-- Basic cryptography algorithms
+- Encryption principles  
+- Basic cryptographic algorithms  
+- Steganography techniques  
+- Secure coding practices  
 
 ---
 
@@ -62,35 +62,39 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ## 📌 Projects  
 
-### 🔐 ShadowCryption Web Application  
-**Encryption & Steganography Concepts (Educational Project)**  
+### 🔐 ShadowCryption — Encryption & Steganography Web Application  
+A security-focused project exploring encryption logic and controlled data hiding techniques.
 
-A learning-focused project exploring encryption principles and steganography techniques for secure data handling.
-
-- Implemented encryption logic for message protection  
-- Explored data hiding concepts using media files  
-- Worked with file handling and confidentiality concepts  
-- Designed strictly for educational experimentation  
+- Implemented encryption mechanisms for message confidentiality  
+- Applied steganographic techniques for hidden data embedding  
+- Practiced secure file handling and confidentiality workflows  
+- Structured as a backend-oriented security experiment  
 
 ---
 
-### 🔐 Appwrite Login Dashboard  
-**Frontend Authentication & Session Handling (Learning Project)**  
+### 🗝 Classical Crypto CLI Toolkit  
+Command-line toolkit implementing classical cryptographic algorithms for structured experimentation.
 
-A frontend authentication project built using HTML, CSS, JavaScript, and Appwrite, focused on understanding authentication workflows and session-based route protection.
+- Implemented traditional cipher techniques  
+- Explored brute-force and cryptanalysis concepts  
+- Designed modular CLI architecture  
 
-- Implemented email & password authentication  
+---
+
+### 🔒 Appwrite Login Dashboard  
+Authentication-focused frontend system exploring session handling and protected route logic.
+
+- Implemented email & password authentication workflow  
 - Developed session-based dashboard protection  
-- Implemented client-side session validation using Appwrite SDK  
-- Maintained clear separation of UI and authentication logic  
-- Learning-focused and not intended for production use
+- Maintained separation between UI logic and authentication flow
+
 
 ---
 
 ## 🏆 Achievements & Certifications  
 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified  
-  Demonstrated foundational knowledge of Azure cloud services, security, identity, and compliance concepts.
+  Foundational knowledge of cloud services, identity, security, and compliance concepts.
 
 - **TCS CodeVita (Global Coding Contest)** – Qualified Round 1  
   Rank: 13011
@@ -100,10 +104,9 @@ A frontend authentication project built using HTML, CSS, JavaScript, and Appwrit
 ## 📚 Continuous Learning
 
 - Active on TryHackMe  
-- Practicing beginner labs on HackTheBox  
-- Self-study of cybersecurity fundamentals  
-- Learning secure coding and backend security  
-- Continuously improving GitHub projects  
+- Practicing labs on HackTheBox  
+- Independent study of backend security  
+- Continuous GitHub project refinement
 
 ---
 
@@ -118,6 +121,9 @@ A frontend authentication project built using HTML, CSS, JavaScript, and Appwrit
 
 ## 📝 Note
 
-All projects are built for educational purposes and ethical cybersecurity learning.  
-I follow responsible security practices and do not engage in unauthorized testing.  
+All projects are developed for ethical cybersecurity learning and secure development practice.  
+I adhere to responsible security standards and do not perform unauthorized testing.
+
 My goal is to build strong foundational knowledge through clean, understandable, and security-focused development.
+
+---
