@@ -25,7 +25,7 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 - Java  
 - JavaScript  
 - HTML, CSS  
-- FastAPI (currently exploring)
+- FastAPI design principles
 
 ### Databases
 - MySQL  
@@ -41,34 +41,35 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ### Security Knowledge
 - Web application security fundamentals  
-- Authentication and session management concepts  
-- Encryption principles  
+- Authentication & access control models  
+- Session management concepts  
+- Encryption principles  (classical ciphers) 
 - Basic cryptographic algorithms  
-- Steganography techniques  
+- Steganography implementation concepts
 - Secure coding practices  
 
 ---
 
-## 🚧 What I’m Currently Working On
+## 🚧 Current Development Direction
 
-- Building authentication-based web applications  
-- Improving session handling and access control logic  
-- Practicing secure backend development concepts
-- Learning modern cryptographic algorithms
-- Refining existing cybersecurity learning projects  
-- Strengthening fundamentals through labs and hands-on experimentation  
+- Designing authentication-driven web systems  
+- Strengthening backend validation and session isolation logic  
+- Improving encryption implementation clarity  
+- Practicing vulnerability identification through labs  
+- Refining project architecture for maintainability
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
 ### 🔐 ShadowCryption — Encryption & Steganography Web Application  
 A security-focused project exploring encryption logic and controlled data hiding techniques.
 
-- Implemented encryption mechanisms for message confidentiality  
-- Applied steganographic techniques for hidden data embedding  
-- Practiced secure file handling and confidentiality workflows  
-- Structured as a backend-oriented security experiment  
+- Implemented encryption logic for message confidentiality  
+- Applied steganographic embedding techniques for hidden data transmission  
+- Structured secure file handling flow  
+- Designed modular backend routing architecture  
+- Focused on separation between encryption logic and file-processing layer
 
 ---
 
@@ -84,10 +85,10 @@ Command-line toolkit implementing classical cryptographic algorithms for structu
 ### 🔒 Appwrite Login Dashboard  
 Authentication-focused frontend system exploring session handling and protected route logic.
 
-- Implemented email & password authentication workflow  
-- Developed session-based dashboard protection  
-- Maintained separation between UI logic and authentication flow
-
+- Email & password authentication workflow  
+- Session-based dashboard protection  
+- Separation between authentication logic and UI components  
+- Practical understanding of protected route patterns  
 
 ---
 
@@ -105,8 +106,8 @@ Authentication-focused frontend system exploring session handling and protected 
 
 - Active on TryHackMe  
 - Practicing labs on HackTheBox  
-- Independent study of backend security  
-- Continuous GitHub project refinement
+- Backend security study & experimentation  
+- Continuous GitHub refinement and architecture improvement
 
 ---
 
@@ -121,9 +122,8 @@ Authentication-focused frontend system exploring session handling and protected 
 
 ## 📝 Note
 
-All projects are developed for ethical cybersecurity learning and secure development practice.  
-I adhere to responsible security standards and do not perform unauthorized testing.
+All projects are developed strictly for ethical cybersecurity research and secure development practice.
 
-My goal is to build strong foundational knowledge through clean, understandable, and security-focused development.
+I aim to build systems that are understandable, maintainable, and resilient — with security integrated as a foundational principle rather than an afterthought.
 
 ---
