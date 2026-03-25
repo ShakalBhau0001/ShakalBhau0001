@@ -28,6 +28,7 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 - FastAPI design principles
 
 ### Databases
+- SQLite
 - MySQL  
 - PostgreSQL  
 - MongoDB  
