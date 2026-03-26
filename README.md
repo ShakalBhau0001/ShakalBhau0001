@@ -24,8 +24,9 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 - Python  
 - Java  
 - JavaScript  
-- HTML, CSS  
-- FastAPI design principles
+- HTML, CSS
+- Flask API
+- FastAPI
 
 ### Databases
 - SQLite
