@@ -23,8 +23,8 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 ### Programming & Development
 - Python  
 - Java  
-- JavaScript  
 - HTML, CSS
+- JavaScript  
 - Flask API
 - FastAPI
 
@@ -54,11 +54,12 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ## 🚧 Current Development Direction
 
-- Designing authentication-driven web systems  
+- Designing authentication-driven web systems
 - Strengthening backend validation and session isolation logic  
 - Improving encryption implementation clarity  
 - Practicing vulnerability identification through labs  
 - Refining project architecture for maintainability
+- Exploring AI/ML concepts and practical applications 
 
 ---
 
