@@ -109,7 +109,8 @@ Authentication-focused frontend system exploring session handling and protected 
 
 - Active on TryHackMe  
 - Practicing labs on HackTheBox  
-- Backend security study & experimentation  
+- Backend security study & experimentation
+- Improving problem solving
 - Continuous GitHub refinement and architecture improvement
 
 ---
