@@ -100,7 +100,7 @@ Authentication-focused frontend system exploring session handling and protected 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified  
   Foundational knowledge of cloud services, identity, security, and compliance concepts.
 
-- **TCS CodeVita (Global Coding Contest)** – Qualified Round 1  
+- **TCS CodeVita Season 13 (Global Coding Contest)** – Qualified Round 1  
   Rank: 13011
 
 ---
