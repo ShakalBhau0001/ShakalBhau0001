@@ -9,7 +9,6 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 ---
 
 ## 🔍 Core Focus
-
 - Secure backend & web application development  
 - Authentication, session handling, and access control design  
 - Web application vulnerabilities (OWASP-aligned study)  
@@ -97,15 +96,18 @@ Authentication-focused frontend system exploring session handling and protected 
 
 ## 🏆 Achievements & Certifications  
 
-- **Microsoft Azure Fundamentals (AZ-900)** – Certified  
-    - Foundational knowledge of cloud services, identity, security, and compliance concepts.
+- **Microsoft Azure Fundamentals (AZ-900)** – Certified
 
-- **Deloitte Australia Cyber Job Simulation (Forage)** – Certified  
-    - Analyzed web activity logs to identify suspicious behavior
-    - Supported a simulated cyber security breach investigation
+  *Foundational knowledge of cloud services, identity, security, and compliance concepts.*
 
-- **TCS CodeVita Season 13 (Global Coding Contest)** – Qualified Round 1  
-    - Rank: 13011
+- **Deloitte Australia Cyber Job Simulation (Forage)** – Certified
+  
+  *Analyzed web activity logs to identify suspicious behavior*
+  *Supported a simulated cyber security breach investigation*
+
+- **TCS CodeVita Season 13 (Global Coding Contest)** – Qualified Round 1
+  
+  *Rank: 13011*
 
 ---
 
