@@ -98,10 +98,14 @@ Authentication-focused frontend system exploring session handling and protected 
 ## 🏆 Achievements & Certifications  
 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified  
-  Foundational knowledge of cloud services, identity, security, and compliance concepts.
+    - Foundational knowledge of cloud services, identity, security, and compliance concepts.
+
+- **Deloitte Australia Cyber Job Simulation (Forage)** – Certified  
+    - Analyzed web activity logs to identify suspicious behavior
+    - Supported a simulated cyber security breach investigation
 
 - **TCS CodeVita Season 13 (Global Coding Contest)** – Qualified Round 1  
-  Rank: 13011
+    - Rank: 13011
 
 ---
 
