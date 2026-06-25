@@ -1,6 +1,8 @@
 # Hi, I’m Shakalen Nabilal Shaikh 👋  
 ### Cybersecurity & Secure Application Development
 
+![Profile Views Badge](https://komarev.com/ghpvc/?username=ShakalBhau0001&label=Profile%20Views&color=0e75b6&style=flat)
+
 Focused on building secure, authentication-driven web applications while strengthening practical cybersecurity fundamentals.
 
 I build learning-focused projects to understand how real systems are attacked and secured. I actively practice secure coding, backend development, and vulnerability awareness through hands-on projects and cybersecurity labs.  
