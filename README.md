@@ -125,16 +125,6 @@ Authentication-focused frontend system exploring session handling and protected 
 
 ---
 
-## 📚 Continuous Learning
-
-- Active on TryHackMe  
-- Practicing labs on HackTheBox  
-- Backend security study & experimentation
-- Improving problem solving
-- Continuous GitHub refinement and architecture improvement
-
----
-
 ## 📬 Contact & Profiles
 
 - **Email:** [shakalbhau007@gmail.com](mailto:shakalbhau007@gmail.com)
