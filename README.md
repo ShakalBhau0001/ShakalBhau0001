@@ -64,6 +64,19 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ---
 
+## 🧠 Learning & Development Practices
+
+* Learn concepts through hands-on implementation rather than theory alone
+* Build small, focused projects to strengthen understanding of security and development concepts
+* Practice cybersecurity through structured labs and controlled environments
+* Regularly review and refactor previous projects to improve code quality and architecture
+* Focus on writing modular, readable, and maintainable code
+* Study security concepts by understanding both how vulnerabilities work and how systems can be secured
+* Document and organize projects to maintain a clear and reproducible development workflow
+* Continuously strengthen problem-solving through programming challenges and practical experimentation
+
+---
+
 ## 📌 Featured Projects  
 
 ### 🔐 ShadowCryption — Encryption & Steganography Web Application  
@@ -72,7 +85,6 @@ A security-focused project exploring encryption logic and controlled data hiding
 - Implemented encryption logic for message confidentiality  
 - Applied steganographic embedding techniques for hidden data transmission  
 - Structured secure file handling flow  
-- Designed modular backend routing architecture  
 - Focused on separation between encryption logic and file-processing layer
 
 ---
@@ -125,10 +137,10 @@ Authentication-focused frontend system exploring session handling and protected 
 
 ## 📬 Contact & Profiles
 
-- **Email:** shakalbhau007@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/shakal-bhau-15sa07  
-- **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001  
-- **LeetCode:** https://leetcode.com/u/ShakalBhau0001  
+- **Email:** [shakalbhau007@gmail.com](mailto:shakalbhau007@gmail.com)
+- **LinkedIn:** <https://www.linkedin.com/in/shakal-bhau-15sa07>  
+- **TryHackMe:** <https://tryhackme.com/p/ShakalBhau0001>  
+- **LeetCode:** <https://leetcode.com/u/ShakalBhau0001>  
 
 ---
 
