@@ -5,12 +5,14 @@
 
 Focused on building secure, authentication-driven web applications while strengthening practical cybersecurity fundamentals.
 
-I build learning-focused projects to understand how real systems are attacked and secured. I actively practice secure coding, backend development, and vulnerability awareness through hands-on projects and cybersecurity labs.  
-Currently seeking internship / entry-level opportunities where I can grow under mentorship and contribute responsibly.
+I build learning-focused projects to understand how real systems are attacked and secured. I actively practice secure coding, backend development, and vulnerability awareness through hands-on projects and cybersecurity labs.
+
+Currently seeking internship / entry-level opportunities in cybersecurity and secure application development, where I can apply my practical skills while contributing to real-world security-focused projects.
 
 ---
 
 ## 🔍 Core Focus
+
 - Secure backend & web application development  
 - Authentication, session handling, and access control design  
 - Web application vulnerabilities (OWASP-aligned study)  
@@ -22,6 +24,7 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 ## 🛠 Technical Skills  
 
 ### Programming & Development
+
 - Python  
 - Java  
 - HTML, CSS
@@ -30,12 +33,14 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 - FastAPI
 
 ### Databases
+
 - SQLite
 - MySQL  
 - PostgreSQL  
 - MongoDB  
 
 ### Cybersecurity Tools
+
 - Kali Linux  
 - Nmap  
 - Burp Suite  
@@ -43,6 +48,7 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 - Wireshark  
 
 ### Security Knowledge
+
 - Web application security fundamentals  
 - Authentication & access control models  
 - Session management concepts  
@@ -66,39 +72,44 @@ Currently seeking internship / entry-level opportunities where I can grow under 
 
 ## 🧠 Learning & Development Practices
 
-* Learn concepts through hands-on implementation rather than theory alone
-* Build small, focused projects to strengthen understanding of security and development concepts
-* Practice cybersecurity through structured labs and controlled environments
-* Regularly review and refactor previous projects to improve code quality and architecture
-* Focus on writing modular, readable, and maintainable code
-* Study security concepts by understanding both how vulnerabilities work and how systems can be secured
-* Document and organize projects to maintain a clear and reproducible development workflow
-* Continuously strengthen problem-solving through programming challenges and practical experimentation
+- Learn concepts through hands-on implementation rather than theory alone
+- Build small, focused projects to strengthen understanding of security and development concepts
+- Practice cybersecurity through structured labs and controlled environments
+- Regularly review and refactor previous projects to improve code quality and architecture
+- Focus on writing modular, readable, and maintainable code
+- Study security concepts by understanding both how vulnerabilities work and how systems can be secured
+- Document and organize projects to maintain a clear and reproducible development workflow
+- Continuously strengthen problem-solving through programming challenges and practical experimentation
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🔐 ShadowCryption — Encryption & Steganography Web Application  
+
 A security-focused project exploring encryption logic and controlled data hiding techniques.
 
+- Structured secure file handling flow
+- Designed modular backend routing architecture
 - Implemented encryption logic for message confidentiality  
 - Applied steganographic embedding techniques for hidden data transmission  
-- Structured secure file handling flow  
 - Focused on separation between encryption logic and file-processing layer
 
 ---
 
 ### 🗝 Classical Crypto CLI Toolkit  
+
 Command-line toolkit implementing classical cryptographic algorithms for structured experimentation.
 
 - Implemented traditional cipher techniques  
 - Explored brute-force and cryptanalysis concepts  
-- Designed modular CLI architecture  
+- Designed modular CLI architecture
+- Used practical implementations to understand classical cryptography
 
 ---
 
 ### 🔒 Appwrite Login Dashboard  
+
 Authentication-focused frontend system exploring session handling and protected route logic.
 
 - Email & password authentication workflow  
