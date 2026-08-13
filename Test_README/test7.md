@@ -1,0 +1,145 @@
+# Hi, I’m Shakalen Nabilal Shaikh 👋
+
+### Cybersecurity & Secure Application Development
+
+![Profile Views Badge](https://komarev.com/ghpvc/?username=ShakalBhau0001\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+Focused on building secure, authentication-driven web applications while strengthening practical cybersecurity fundamentals.
+
+I build learning-focused projects to understand how real systems are attacked and secured. I actively practice secure coding, backend development, and vulnerability awareness through hands-on projects and cybersecurity labs.
+
+Currently seeking internship / entry-level opportunities in cybersecurity and secure application development, where I can apply my practical skills while contributing to real-world security-focused projects.
+
+---
+
+## 🔍 Core Focus
+
+* Secure backend & web application development
+* Authentication, session handling, and access control design
+* Web application vulnerabilities (OWASP-aligned study)
+* Encryption fundamentals & applied cryptography
+* Security-aware system design principles
+
+---
+
+## 🛠 Technical Skills
+
+### Programming & Development
+
+* Python
+* Java
+* HTML, CSS
+* JavaScript
+* Flask API
+* FastAPI
+
+### Databases
+
+* SQLite
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### Cybersecurity Tools
+
+* Kali Linux
+* Nmap
+* Burp Suite
+* Metasploit
+* Wireshark
+
+### Security Knowledge
+
+* Web application security fundamentals
+* Authentication & access control models
+* Session management concepts
+* Encryption principles (classical ciphers)
+* Basic cryptographic algorithms
+* Steganography implementation concepts
+* Secure coding practices
+
+---
+
+## 🚧 Current Development Direction
+
+* Designing authentication-driven web systems
+* Strengthening backend validation and session isolation logic
+* Practicing vulnerability identification through controlled security labs
+* Exploring AI/ML concepts and practical applications
+
+---
+
+## 🧠 Learning & Development Practices
+
+* Prefer hands-on implementation to understand concepts beyond theory
+* Practice cybersecurity through structured labs and controlled environments
+* Regularly review and refactor projects to improve code quality and architecture
+* Focus on building modular, readable, and maintainable software
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 ShadowCryption — Encryption & Steganography Web Application
+
+A security-focused project exploring encryption logic and controlled data hiding techniques.
+
+* Implemented encryption logic for message confidentiality
+* Applied steganographic embedding techniques for hidden data transmission
+* Structured secure file handling flow
+* Designed modular backend routing architecture
+* Focused on separation between encryption logic and file-processing layers
+
+---
+
+### 🗝 Classical Crypto CLI Toolkit
+
+A command-line toolkit implementing classical cryptographic algorithms for structured experimentation and cryptanalysis study.
+
+* Implemented traditional cipher techniques
+* Explored brute-force and cryptanalysis concepts
+* Designed modular CLI architecture
+* Used practical implementations to understand classical cryptography
+
+---
+
+### 🔒 Appwrite Login Dashboard
+
+An authentication-focused frontend system exploring session handling and protected route logic.
+
+* Implemented email & password authentication workflow
+* Developed session-based dashboard protection
+* Separated authentication logic from UI components
+* Practiced protected route implementation patterns
+
+---
+
+## 🏆 Achievements & Certifications
+
+* **Microsoft Azure Fundamentals (AZ-900)** — Certified
+  *Foundational knowledge of cloud services, identity, security, and compliance concepts.*
+
+* **Deloitte Australia Cyber Job Simulation (Forage)** — Certified
+  *Analyzed web activity logs to identify suspicious behavior and supported a simulated cybersecurity breach investigation.*
+
+* **TCS CodeVita Season 13 (Global Coding Contest)** — Qualified Round 1
+  *Rank: 13011*
+
+---
+
+## 📬 Contact & Profiles
+
+* **Email:** [shakalbhau007@gmail.com](mailto:shakalbhau007@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/shakal-bhau-15sa07
+* **TryHackMe:** https://tryhackme.com/p/ShakalBhau0001
+* **LeetCode:** https://leetcode.com/u/ShakalBhau0001
+
+---
+
+## 📝 Note
+
+All projects are developed strictly for ethical cybersecurity research and secure development practice.
+
+I aim to build systems that are understandable, maintainable, and resilient — with security integrated as a foundational principle rather than an afterthought.
+
+---
