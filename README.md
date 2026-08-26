@@ -88,7 +88,7 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 For a complete overview of my projects, including project descriptions, technologies,
 learning objectives, and implementation details, see:
 
-👉 **[View All Projects](./PROJECTS.md)**
+👉 **[View All Projects](.github/PROJECTS.md)**
 
 
 ### 🔐 ShadowCryption — Encryption & Steganography Web Application  
