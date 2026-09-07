@@ -25,6 +25,7 @@
 | **[rsa-algorithm-python](https://github.com/ShakalBhau0001/rsa-algorithm-python)**                                     | A simple Python implementation of the RSA public-key cryptography algorithm demonstrating key generation, encryption, and decryption for educational purposes.                                                |
 | **[caesar-cipher-cryptanalysis-python](https://github.com/ShakalBhau0001/caesar-cipher-cryptanalysis-python)**         | Educational Python implementation of Caesar Cipher cryptanalysis with automatic brute-force and English frequency scoring to demonstrate weaknesses of classical encryption.                                  |
 | **[rail-fence-cipher-python](https://github.com/ShakalBhau0001/rail-fence-cipher-python)**                             | A Python implementation of the classical Rail Fence cipher with encryption and decryption support. Built for educational purposes to understand zigzag-based transposition and historical cryptography        |
+| **[base64-text-encoder-decoder-python](https://github.com/ShakalBhau0001/base64-text-encoder-decoder-python)**         | A Python-based Base64 text encoder and decoder for learning encoding concepts and practicing CTF challenges.                                                                                                  |
 
 ---
 
