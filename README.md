@@ -125,6 +125,14 @@ Authentication-focused frontend system exploring session handling and protected 
 
 ---
 
+## 🔒 Security
+
+I take security seriously across all my projects — from encryption and authentication logic to responsible disclosure of vulnerabilities.
+
+👉 **[View Security Policy](.github/SECURITY.md) — found a vulnerability in one of my projects? Here's how to report it responsibly.**
+
+---
+
 ## 🏆 Achievements & Certifications  
 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified
