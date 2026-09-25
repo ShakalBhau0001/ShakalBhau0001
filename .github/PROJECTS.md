@@ -28,6 +28,8 @@
 | 24      | **[base64-text-encoder-decoder-python](https://github.com/ShakalBhau0001/base64-text-encoder-decoder-python)**         | A Python-based Base64 text encoder and decoder for learning encoding concepts and practicing CTF challenges.                                                                                                  |
 | 25      | **[base64-file-encoder-decoder-python](https://github.com/ShakalBhau0001/base64-file-encoder-decoder-python)**         | A Python-based Base64 text A Python CLI tool for encoding files into Base64 and decoding Base64 data back into its original file format for cybersecurity, CTF, and educational purposes.                     |
 | 26      | **[secure-password-generator-python](https://github.com/ShakalBhau0001/secure-password-generator-python)**             | A cryptographically secure Python CLI for generating strong random passwords and memorable passphrases using the secrets module.                                                                              |
+| 27      | **[url-reputation-checker-python](https://github.com/ShakalBhau0001/url-reputation-checker-python)**                   | 🔍 Python CLI tool that scores URLs for phishing and malicious signs using heuristic checks: risky TLDs, shorteners, IP hosts, brand impersonation and suspicious patterns.                                   |
+| 28      | **[password-breach-checker-python](https://github.com/ShakalBhau0001/password-breach-checker-python)**                 | 🔐 Python CLI tool that checks if passwords have appeared in known data breaches using the HaveIBeenPwned k-anonymity API — no plaintext password ever leaves your machine.                                   |
 
 ---
 
