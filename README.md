@@ -91,18 +91,6 @@ learning objectives, and implementation details, see:
 👉 **[View All Projects](.github/PROJECTS.md)**
 
 
-### 🔐 ShadowCryption — Encryption & Steganography Web Application  
-
-A security-focused project exploring encryption logic and controlled data hiding techniques.
-
-- Structured secure file handling flow
-- Designed modular backend routing architecture
-- Implemented encryption logic for message confidentiality  
-- Applied steganographic embedding techniques for hidden data transmission  
-- Focused on separation between encryption logic and file-processing layer
-
----
-
 ### 🗝 Classical Crypto CLI Toolkit  
 
 Command-line toolkit implementing classical cryptographic algorithms for structured experimentation.
