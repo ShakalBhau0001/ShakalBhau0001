@@ -2,12 +2,8 @@ name: 🐍 Neon Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 concurrency:
   group: snake
@@ -17,13 +13,17 @@ jobs:
   build:
     name: 🧩 Build & Deploy Ultra Snake
     runs-on: ubuntu-latest
+
     if: github.repository == 'ShakalBhau0001/ShakalBhau0001'
+
     permissions:
       contents: write
 
     steps:
       - name: 🪶 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: ⚡ Setup Cache
         uses: actions/cache@v4
@@ -36,11 +36,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-          # 🌟 Custom animation enhancements
           color_snake: "#00FFF2"
           color_dots: "#FF69B4,#33CC33,#6666CC,#FFD700,#00FFFF,#FF4500,#00112B"
 
-          # 👇 Custom look parameters
           dots_density: 2.5
           snake_growth_rate: 2.0
           snake_trail_length: 220
@@ -57,8 +55,13 @@ jobs:
       - name: 🔧 Force Neon Blue Background
         run: |
           echo "🎨 Forcing background color to Neon Blue (#0011FF)..."
+
           for f in dist/github-contribution-grid-snake*.svg; do
-            [ -f "$f" ] && sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f" || echo "⚠️ File not found: $f"
+            if [ -f "$f" ]; then
+              sed -i 's/fill="[^"]*"/fill="#0011FF"/g' "$f"
+            else
+              echo "⚠️ File not found: $f"
+            fi
           done
 
       - name: 🚀 Deploy SVGs
