@@ -1,7 +1,8 @@
-# Hi, I’m Shakalen Nabilal Shaikh 👋  
+# Hi, I’m Shakalen Nabilal Shaikh 👋
+
 ### Cybersecurity & Secure Application Development
 
-![Profile Views Badge](https://komarev.com/ghpvc/?username=ShakalBhau0001&label=Profile%20Views&color=0e75b6&style=flat)
+**![Profile Views Badge](https://komarev.com/ghpvc/?username=ShakalBhau0001&label=Profile%20Views&color=0e75b6&style=flat)**
 
 Focused on building secure, authentication-driven web applications while strengthening practical cybersecurity fundamentals.
 
@@ -13,60 +14,61 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 
 ## 🔍 Core Focus
 
-- Secure backend & web application development  
-- Authentication, session handling, and access control design  
-- Web application vulnerabilities (OWASP-aligned study)  
-- Encryption fundamentals & applied cryptography  
-- Security-aware system design principles  
+- Secure backend & web application development
+- Authentication, session handling, and access control design
+- Web application vulnerabilities (OWASP-aligned study)
+- Encryption fundamentals & applied cryptography
+- Security-aware system design principles
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Technical Skills
 
 ### Programming & Development
 
-- Python  
-- Java  
+- Python
+- Java
 - HTML, CSS
-- JavaScript  
+- JavaScript
 - Flask API
 - FastAPI
+- Streamlit, CustomTkinter
 
 ### Databases
 
 - SQLite
-- MySQL  
-- PostgreSQL  
-- MongoDB  
+- MySQL
+- PostgreSQL
+- MongoDB
 
 ### Cybersecurity Tools
 
-- Kali Linux  
-- Nmap  
-- Burp Suite  
-- Metasploit  
-- Wireshark  
+- Kali Linux
+- Nmap
+- Burp Suite
+- Metasploit
+- Wireshark
 
 ### Security Knowledge
 
-- Web application security fundamentals  
-- Authentication & access control models  
-- Session management concepts  
-- Encryption principles  (classical ciphers) 
-- Basic cryptographic algorithms  
+- Web application security fundamentals
+- Authentication & access control models
+- Session management concepts
+- Encryption principles (classical ciphers)
+- Basic cryptographic algorithms
 - Steganography implementation concepts
-- Secure coding practices  
+- Secure coding practices
 
 ---
 
 ## 🚧 Current Development Direction
 
 - Designing authentication-driven web systems
-- Strengthening backend validation and session isolation logic  
-- Improving encryption implementation clarity  
-- Practicing vulnerability identification through labs  
+- Strengthening backend validation and session isolation logic
+- Improving encryption implementation clarity
+- Practicing vulnerability identification through labs
 - Refining project architecture for maintainability
-- Exploring AI/ML concepts and practical applications 
+- Exploring AI/ML concepts and practical applications
 
 ---
 
@@ -83,33 +85,106 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
 For a complete overview of my projects, including project descriptions, technologies,
 learning objectives, and implementation details, see:
 
 👉 **[View All Projects](.github/PROJECTS.md)**
 
+---
 
-### 🗝 Classical Crypto CLI Toolkit  
+### 🔐 StegaVault
 
-Command-line toolkit implementing classical cryptographic algorithms for structured experimentation.
+Unified toolkit for password-based file encryption and image/audio steganography.
 
-- Implemented traditional cipher techniques  
-- Explored brute-force and cryptanalysis concepts  
-- Designed modular CLI architecture
-- Used practical implementations to understand classical cryptography
+- Password-based file encryption using Fernet with PBKDF2 key derivation
+- LSB steganography to hide data inside PNG images
+- LSB steganography to hide data inside WAV audio files
+- Modular design that combines encryption and steganography workflows in one toolkit
+- Available as a **[CLI](https://github.com/ShakalBhau0001/StegaVault-CLI)** and a **[CustomTkinter GUI](https://github.com/ShakalBhau0001/StegaVault-GUI)**
 
 ---
 
-### 🔒 Appwrite Login Dashboard  
+### 🛡 AES-GCM Image Cipher
 
-Authentication-focused frontend system exploring session handling and protected route logic.
+**[AES-256-GCM Image Encryption And Decryption](https://github.com/ShakalBhau0001/AES-GCM-Image-Cipher-CLI)** with PBKDF2-HMAC-SHA256 key derivation.
 
-- Email & password authentication workflow  
-- Session-based dashboard protection  
-- Separation between authentication logic and UI components  
-- Practical understanding of protected route patterns  
+- AES-256-GCM encryption and decryption for image files
+- PBKDF2-HMAC-SHA256 for password-based key derivation
+- Authenticated encryption, so tampered data is detected
+- Rich-powered command-line interface
+- Also available as a **[CustomTkinter GUI](https://github.com/ShakalBhau0001/AES-GCM-Image-Cipher-GUI)** with sidebar navigation and a password strength indicator
+
+---
+
+### 🔎 Password Breach Checker
+
+**[Password Breach Checker CLI](https://github.com/ShakalBhau0001/password-breach-checker-python)** that checks whether a password appeared in known data breaches using the HaveIBeenPwned k-anonymity API.
+
+- Checks passwords against known data breaches
+- Uses the k-anonymity model, so only a partial hash is shared with the API
+- Plaintext password never leaves the machine
+- Privacy-aware design with a simple command-line workflow
+
+---
+
+### 🎣 URL Reputation Checker
+
+**[Heuristic Phishing Detector](https://github.com/ShakalBhau0001/url-reputation-checker-python)** that scores URLs for malicious signs.
+
+- Scores URLs for phishing and malicious signs using heuristic checks
+- Detects risky TLDs and URL shorteners
+- Flags IP-based hosts and brand impersonation attempts
+- Identifies other suspicious URL patterns
+- SOC-style analysis workflow in a Python CLI
+
+---
+
+### 📚 Wordlist Generator
+
+**[Targeted Wordlist Generator](https://github.com/ShakalBhau0001/wordlist-generator-python-cli)** for authorized pentesting and OSINT practice.
+
+- Builds targeted wordlists from personal info such as name, nickname, and date
+- Generates case, leetspeak, and numeric-tail variants
+- Rich-powered terminal interface with auto-incrementing output files
+- Core logic separated into a reusable module shared by both versions
+- Also available as a **[Streamlit GUI](https://github.com/ShakalBhau0001/wordlist-generator-python-gui)** with a dark/light theme toggle
+
+---
+
+### 🗝 Classical Crypto CLI Toolkit
+
+**[Command-line toolkit](https://github.com/ShakalBhau0001/classical-crypto-cli-toolkit)** implementing classical cryptographic algorithms for structured experimentation.
+
+- Implemented traditional cipher techniques
+- Explored brute-force and cryptanalysis concepts
+- Designed modular CLI architecture
+- Used practical implementations to understand classical cryptography
+- Also available as a **[CustomTkinter GUI](https://github.com/ShakalBhau0001/classical-crypto-gui-toolkit)** with Sidebar navigation between Cipher, Attack, and About panels.
+
+---
+
+### 🥛 Dairy Management System
+
+**[Full-Stack Web Application](https://github.com/ShakalBhau0001/Dairy-Management-System-Flask)** built with Flask and MySQL.
+
+- Customer record management
+- Daily milk-collection tracking
+- Pricing rate charts
+- Secure admin operations
+- MySQL backend with an intuitive web interface
+
+---
+
+### 🔒 Appwrite Login Dashboard
+
+[Login Dashboard](https://github.com/ShakalBhau0001/appwrite-login-dashboard) Authentication-focused frontend system exploring session handling and protected route logic.
+
+- Email & password authentication workflow
+- Session-based dashboard protection
+- Separation between authentication logic and UI components
+- Practical understanding of protected route patterns
 
 ---
 
@@ -121,29 +196,29 @@ I take security seriously across all my projects — from encryption and authent
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Achievements & Certifications
 
 - **Microsoft Azure Fundamentals (AZ-900)** – Certified
 
-  *Foundational knowledge of cloud services, identity, security, and compliance concepts.*
+  _Foundational knowledge of cloud services, identity, security, and compliance concepts._
 
 - **Deloitte Australia Cyber Job Simulation (Forage)** – Certified
-  
-  *Analyzed web activity logs to identify suspicious behavior*
-  *Supported a simulated cyber security breach investigation*
+
+  _Analyzed web activity logs to identify suspicious behavior_
+  _Supported a simulated cyber security breach investigation_
 
 - **TCS CodeVita Season 13 (Global Coding Contest)** – Qualified Round 1
-  
-  *Rank: 13011*
+
+  _Rank: 13011_
 
 ---
 
 ## 📬 Contact & Profiles
 
 - **Email:** [shakalbhau007@gmail.com](mailto:shakalbhau007@gmail.com)
-- **LinkedIn:** <https://www.linkedin.com/in/shakal-bhau-15sa07>  
-- **TryHackMe:** <https://tryhackme.com/p/ShakalBhau0001>  
-- **LeetCode:** <https://leetcode.com/u/ShakalBhau0001>  
+- **LinkedIn:** <https://www.linkedin.com/in/shakal-bhau-15sa07>
+- **TryHackMe:** <https://tryhackme.com/p/ShakalBhau0001>
+- **LeetCode:** <https://leetcode.com/u/ShakalBhau0001>
 
 ---
 
