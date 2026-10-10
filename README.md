@@ -219,6 +219,7 @@ I take security seriously across all my projects — from encryption and authent
 - **LinkedIn:** <https://www.linkedin.com/in/shakal-bhau-15sa07>
 - **TryHackMe:** <https://tryhackme.com/p/ShakalBhau0001>
 - **LeetCode:** <https://leetcode.com/u/ShakalBhau0001>
+- **CodeChef:** <https://www.codechef.com/users/shakalbhau0001>
 
 ---
 
