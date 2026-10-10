@@ -1,36 +1,57 @@
-name: 🐍 Neon Snake Generator
+name: 🐍 Neon Snake Generator 2
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+  - cron: "0 0 */2 * *"
   workflow_dispatch:
+
+concurrency:
+  group: neon-snake-generator
+  cancel-in-progress: false
 
 jobs:
   build:
     name: Generate Neon Snake SVG
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    permissions:
+      contents: write
 
-      - name: Generate Snake Animation
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ShakalBhau0001
           outputs: |
             dist/github-contribution-grid-snake-neon.svg
 
-      - name: Upload Artifact (Preview)
+      - name: 📦 Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: neon-snake
           path: dist/github-contribution-grid-snake-neon.svg
 
-      - name: Commit & Push SVG
+      - name: 🔄 Sync with master
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          git fetch origin master
+          git reset --soft origin/master
+
+      - name: 💾 Commit SVG
+        run: |
           git add dist/github-contribution-grid-snake-neon.svg
-          git commit -m "Updated Neon Snake 🐍" || echo "No changes to commit"
-          git push
+
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Updated Neon Snake 🐍"
+
+      - name: 🚀 Push SVG
+        run: |
+          git push origin HEAD:master
