@@ -30,8 +30,7 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 - Java
 - HTML, CSS
 - JavaScript
-- Flask API
-- FastAPI
+- Flask API, FastAPI
 - Streamlit, CustomTkinter
 
 ### Databases
@@ -179,7 +178,7 @@ Unified toolkit for password-based file encryption and image/audio steganography
 
 ### 🔒 Appwrite Login Dashboard
 
-[Login Dashboard](https://github.com/ShakalBhau0001/appwrite-login-dashboard) Authentication-focused frontend system exploring session handling and protected route logic.
+**[Login Dashboard](https://github.com/ShakalBhau0001/appwrite-login-dashboard)** Authentication-focused frontend system exploring session handling and protected route logic.
 
 - Email & password authentication workflow
 - Session-based dashboard protection
