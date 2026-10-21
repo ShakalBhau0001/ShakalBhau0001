@@ -1,4 +1,4 @@
-# Hi, I’m Shakalen Nabilal Shaikh 👋
+# Hi, I’m Shaklen Nabilal Shaikh 👋
 
 ### Cybersecurity & Secure Application Development
 
@@ -89,7 +89,7 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 For a complete overview of my projects, including project descriptions, technologies,
 learning objectives, and implementation details, see:
 
-👉 **[View All Projects](.github/PROJECTS.md)**
+👉 **_[View All Projects](.github/PROJECTS.md)_**
 
 ---
 
@@ -142,7 +142,7 @@ Unified toolkit for password-based file encryption and image/audio steganography
 
 ### 📚 Wordlist Generator
 
-**[Targeted Wordlist Generator](https://github.com/ShakalBhau0001/wordlist-generator-python-cli)** for authorized pentesting and OSINT practice.
+**[Targeted Wordlist Generator](https://github.com/ShakalBhau0001/wordlist-generator-python-cli)** for authorized penetration testing and OSINT practice.
 
 - Builds targeted wordlists from personal info such as name, nickname, and date
 - Generates case, leetspeak, and numeric-tail variants
@@ -191,7 +191,7 @@ Unified toolkit for password-based file encryption and image/audio steganography
 
 I take security seriously across all my projects — from encryption and authentication logic to responsible disclosure of vulnerabilities.
 
-👉 **[View Security Policy](.github/SECURITY.md) — found a vulnerability in one of my projects? Here's how to report it responsibly.**
+👉 **_[View Security Policy](.github/SECURITY.md) — found a vulnerability in one of my projects? Here's how to report it responsibly._**
 
 ---
 
