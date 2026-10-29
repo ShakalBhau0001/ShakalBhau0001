@@ -31,6 +31,7 @@ Currently seeking internship / entry-level opportunities in cybersecurity and se
 - HTML, CSS
 - JavaScript
 - Flask API, FastAPI
+- Numpy, Pandas
 - Streamlit, CustomTkinter
 
 ### Databases
